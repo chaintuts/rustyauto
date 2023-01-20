@@ -1,0 +1,32 @@
+11 Momentary interruption in power supply to ECU (electronic control unit or computer) up to 1991
+12 Engine revolution signal missing
+13 Rpm signal to ecu missing above 1000 rpm
+14 Igniter signal to ecu missing
+16 A/T control signal missing from ecu
+21 Main oxygen sensor signal fault
+22 Water temperature sensor circuit fault
+23 Intake air temperature signal fault
+24 Intake air temperature signal fault
+25 Air/fuel ratio LEAN
+26 Air/fuel ratio RICH
+27 Sub-oxygen sensor signal or heater circuit fault
+28 No. 2 oxygen sensor/heater signal fault
+31 Air flow meter circuit or Vacuum sensor signal fault
+32 Air flow meter circuit or Vacuum sensor signal fault
+34 Turbo-charging pressure signal fault
+36 Turbo-charging pressure signal fault
+35 Altitude compensation sensor signal fault
+41 Throttle position circuit fault
+42 Vehicle speed sensor circuit
+43 No starter signal to the ecu
+51 AC signal on; DL contact off (in transmission shifter with diagnostic connector jumped)
+52 Knock sensor fault Code 
+53 Knock sensor fault Code 
+55 Knock sensor fault Code 
+71 EGR system malfunction
+72 Fuel cut solenoid signal fault
+78 Fuel pump control signal fault
+81 TCM communication fault
+83 TCM communication fault
+84 TCM communication fault
+85 TCM communication fault

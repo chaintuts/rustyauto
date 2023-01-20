@@ -1,0 +1,1105 @@
+P0001 Fuel Volume Regulator Control Circuit/Open
+P0002 Fuel Volume Regulator Control Circuit Range/Performance
+P0003 Fuel Volume Regulator Control Circuit Low
+P0004 Fuel Volume Regulator Control Circuit High
+P0005 Fuel Shutoff Valve Control Circuit/Open
+P0006 Fuel Shutoff Valve Control Circuit Low
+P0007 Fuel Shutoff Valve Control Circuit High
+P0008 Engine Position System Performance - Bank 1
+P0009 Engine Position System Performance - Bank 2
+P0010 Intake Camshaft Position Actuator Circuit/Open (Bank 1)
+P0011 Intake Camshaft Position Timing - Over-Advanced (Bank 1)
+P0012 Intake Camshaft Position Timing - Over-Retarded (Bank 1)
+P0013 Exhaust Camshaft Position Actuator Circuit/Open (Bank 1)
+P0014 Exhaust Camshaft Position Timing - Over-Advanced (Bank 1)
+P0015 Exhaust Camshaft Position Timing - Over-Retarded (Bank 1)
+P0016 Crankshaft & Camshaft Position Correlation - Bank 1, Sensor A
+P0017 Crankshaft & Camshaft Position Correlation - Bank 1, Sensor B
+P0018 Crankshaft & Camshaft Position Correlation - Bank 2, Sensor A
+P0019 Crankshaft & Camshaft Position Correlation - Bank 2, Sensor B
+P0020 Intake Camshaft Position Actuator Circuit/Open (Bank 2)
+P0021 Intake Camshaft Position Timing - Over-Advanced (Bank 2)
+P0022 Intake Camshaft Position Timing - Over-Retarded (Bank 2)
+P0023 Exhaust Camshaft Position Actuator Circuit/Open (Bank 2)
+P0024 Exhaust Camshaft Position Timing - Over-Advanced (Bank 2)
+P0025 Exhaust Camshaft Position Timing - Over-Retarded (Bank 2)
+P0026 Intake Valve Control Solenoid Circuit Range/Performance (Bank 1)
+P0027 Exhaust Valve Control Solenoid Circuit Range/Performance (Bank 1)
+P0028 Intake Valve Control Solenoid Circuit Range/Performance (Bank 2)
+P0029 Exhaust Valve Control Solenoid Circuit Range/Performance (Bank 2)
+P0030 HO2S Heater Control Circuit (Bank 1, Sensor 1)
+P0031 HO2S Heater Control Circuit Low (Bank 1, Sensor 1)
+P0032 HO2S Heater Control Circuit High (Bank 1, Sensor 1)
+P0033 Turbo/Super Charger Bypass Valve Control Circuit/Open
+P0034 Turbo/Super Charger Bypass Valve Control Circuit Low
+P0035 Turbo/Super Charger Bypass Valve Control Circuit High
+P0036 HO2S Heater Control Circuit (Bank 1, Sensor 2)
+P0037 HO2S Heater Control Circuit Low (Bank 1, Sensor 2)
+P0038 HO2S Heater Control Circuit High (Bank 1, Sensor 2)
+P0039 Turbo/Super Charger Bypass Valve Control Circuit Range/Performance
+P0040 Oxygen Sensor Signals Swapped Bank 1 Sensor 1/Bank 2 Sensor 1
+P0041 Oxygen Sensor Signals Swapped Bank 1 Sensor 2/Bank 2 Sensor 2
+P0042 HO2S Heater Control Circuit (Bank 1, Sensor 3)
+P0043 HO2S Heater Control Circuit Low (Bank 1, Sensor 3)
+P0044 HO2S Heater Control Circuit High (Bank 1, Sensor 3)
+P0045 Turbo/Super Charger Boost Control Solenoid Circuit/Open
+P0046 Turbo/Super Charger Boost Control Solenoid Circuit Range/Performance
+P0047 Turbo/Super Charger Boost Control Solenoid Circuit Low
+P0048 Turbo/Super Charger Boost Control Solenoid Circuit High
+P0049 Turbo/Super Charger Turbine Overspeed
+P0050 HO2S Heater Control Circuit (Bank 2, Sensor 1)
+P0051 HO2S Heater Control Circuit Low (Bank 2, Sensor 1)
+P0052 HO2S Heater Control Circuit High (Bank 2, Sensor 1)
+P0053 HO2S Heater Resistance (Bank 1, Sensor 1)
+P0054 HO2S Heater Resistance (Bank 1, Sensor 2)
+P0055 HO2S Heater Resistance (Bank 1, Sensor 3)
+P0056 HO2S Heater Control Circuit (Bank 2, Sensor 2)
+P0057 HO2S Heater Control Circuit Low (Bank 2, Sensor 2)
+P0058 HO2S Heater Control Circuit High (Bank 2, Sensor 2)
+P0059 HO2S Heater Resistance (Bank 2, Sensor 1)
+P0060 HO2S Heater Resistance (Bank 2, Sensor 2)
+P0061 HO2S Heater Resistance (Bank 2, Sensor 3)
+P0062 HO2S Heater Control Circuit (Bank 2, Sensor 3)
+P0063 HO2S Heater Control Circuit Low (Bank 2, Sensor 3)
+P0064 HO2S Heater Control Circuit High (Bank 2, Sensor 3)
+P0065 Air Assisted Injector Control Range/Performance
+P0066 Air Assisted Injector Control Circuit or Circuit Low
+P0067 Air Assisted Injector Control Circuit High
+P0068 MAP/MAF - Throttle Position Correlation
+P0069 MAP - Barometric Pressure Correlation
+P0070 Ambient Air Temperature Sensor Circuit
+P0071 Ambient Air Temperature Sensor Range/Performance
+P0072 Ambient Air Temperature Sensor Circuit Low Input
+P0073 Ambient Air Temperature Sensor Circuit High Input
+P0074 Ambient Air Temperature Sensor Circuit Intermittent/Erratic
+P0075 Intake Valve Control Circuit (Bank 1)
+P0076 Intake Valve Control Circuit Low (Bank 1)
+P0077 Intake Valve Control Circuit High (Bank 1)
+P0078 Exhaust Valve Control Circuit (Bank 1)
+P0079 Exhaust Valve Control Circuit Low (Bank 1)
+P0080 Exhaust Valve Control Circuit High (Bank 1)
+P0081 Intake Valve Control Circuit (Bank 2)
+P0082 Intake Valve Control Circuit Low (Bank 2)
+P0083 Intake Valve Control Circuit High (Bank 2)
+P0084 Exhaust Valve Control Circuit (Bank 2)
+P0085 Exhaust Valve Control Circuit Low (Bank 2)
+P0086 Exhaust Valve Control Circuit High (Bank 2)
+P0087 Fuel Rail/System Pressure - Too Low
+P0088 Fuel Rail/System Pressure - Too High
+P0089 Fuel Pressure Regulator Performance
+P0090 Fuel Pressure Regulator Control Circuit
+P0091 Fuel Pressure Regulator Control Circuit Low
+P0092 Fuel Pressure Regulator Control Circuit High
+P0093 Fuel System Leak Detected - Large Leak
+P0094 Fuel System Leak Detected - Small Leak
+P0095 Intake Air Temperature Sensor 2 Circuit
+P0096 Intake Air Temperature Sensor 2 Circuit Range/Performance
+P0097 Intake Air Temperature Sensor 2 Circuit Low Input
+P0098 Intake Air Temperature Sensor 2 Circuit High Input
+P0099 Intake Air Temperature Sensor 2 Circuit Intermittent/Erratic
+P0100 Mass or Volume Air Flow Circuit
+P0101 Mass or Volume Air Flow Circuit Range/Performance
+P0102 Mass or Volume Air Flow Circuit Low Input
+P0103 Mass or Volume Air Flow Circuit High Input
+P0104 Mass or Volume Air Flow Circuit Intermittent
+P0105 Manifold Absolute Pressure/BARO Circuit
+P0106 Manifold Absolute Pressure/BARO Sensor Range/Performance
+P0107 Manifold Absolute Pressure/BARO Sensor Low Input
+P0108 Manifold Absolute Pressure/BARO Sensor High Input
+P0109 Manifold Absolute Pressure/BARO Sensor Intermittent
+P0110 Intake Air Temperature Sensor 1 Circuit
+P0111 Intake Air Temperature Sensor 1 Circuit Range/Performance
+P0112 Intake Air Temperature Sensor 1 Circuit Low Input
+P0113 Intake Air Temperature Sensor 1 Circuit High Input
+P0114 Intake Air Temperature Sensor 1 Intermittent/Erratic
+P0115 Engine Coolant Temperature Circuit
+P0116 Engine Coolant Temperature Circuit Range/Performance
+P0117 Engine Coolant Temperature Circuit Low Input
+P0118 Engine Coolant Temperature Circuit High Input
+P0119 Engine Coolant Temperature Circuit Intermittent/Erratic
+P0120 Throttle/Pedal Position Sensor A Circuit
+P0121 Throttle/Pedal Position Sensor A Circuit Range/Performance
+P0122 Throttle/Pedal Position Sensor A Circuit Low Input
+P0123 Throttle/Pedal Position Sensor A Circuit High Input
+P0124 Throttle/Pedal Position Sensor A Intermittent
+P0125 Insufficient Coolant Temp For Closed Loop Fuel Control
+P0126 Insufficient Coolant Temp For Stable Operation
+P0127 Intake Air Temperature Too High
+P0128 Coolant Thermostat (Coolant Temp Below Thermostat Regulating Temperature)
+P0129 Barometric Pressure Too Low
+P0130 O2 Circuit (Bank 1, Sensor 1)
+P0131 O2 Circuit Low Voltage (Bank 1, Sensor 1)
+P0132 O2 Circuit High Voltage (Bank 1, Sensor 1)
+P0133 O2 Circuit Slow Response (Bank 1, Sensor 1)
+P0134 O2 Circuit No Activity Detected (Bank 1, Sensor 1)
+P0135 O2 Heater Circuit (Bank 1, Sensor 1)
+P0136 O2 Circuit (Bank 1, Sensor 2)
+P0137 O2 Circuit Low Voltage (Bank 1, Sensor 2)
+P0138 O2 Circuit High Voltage (Bank 1, Sensor 2)
+P0139 O2 Circuit Slow Response (Bank 1, Sensor 2)
+P0140 O2 Circuit No Activity Detected (Bank 1, Sensor 2)
+P0141 O2 Heater Circuit (Bank 1, Sensor 2)
+P0142 O2 Circuit (Bank 1, Sensor 3)
+P0143 O2 Circuit Low Voltage (Bank 1, Sensor 3)
+P0144 O2 Circuit High Voltage (Bank 1, Sensor 3)
+P0145 O2 Circuit Slow Response (Bank 1, Sensor 3)
+P0146 O2 Circuit No Activity Detected (Bank 1, Sensor 3)
+P0147 O2 Heater Circuit (Bank 1, Sensor 3)
+P0148 Fuel Delivery Error
+P0149 Fuel Timing Error
+P0150 O2 Circuit (Bank 2, Sensor 1)
+P0151 O2 Circuit Low Voltage (Bank 2, Sensor 1)
+P0152 O2 Circuit High Voltage (Bank 2, Sensor 1)
+P0153 O2 Circuit Slow Response (Bank 2, Sensor 1)
+P0154 O2 Circuit No Activity Detected (Bank 2, Sensor 1)
+P0155 O2 Heater Circuit (Bank 2, Sensor 1)
+P0156 O2 Circuit (Bank 2, Sensor 2)
+P0157 O2 Circuit Low Voltage (Bank 2, Sensor 2)
+P0158 O2 Circuit High Voltage (Bank 2, Sensor 2)
+P0159 O2 Circuit Slow Response (Bank 2, Sensor 2)
+P0160 O2 Circuit No Activity Detected (Bank 2, Sensor 2)
+P0161 O2 Heater Circuit (Bank 2, Sensor 2)
+P0162 O2 Circuit (Bank 2, Sensor 3)
+P0163 O2 Circuit Low Voltage (Bank 2, Sensor 3)
+P0164 O2 Circuit High Voltage (Bank 2, Sensor 3)
+P0165 O2 Circuit Slow Response (Bank 2, Sensor 3)
+P0166 O2 Circuit No Activity Detected (Bank 2, Sensor 3)
+P0167 O2 Heater Circuit (Bank 2, Sensor 3)
+P0168 Engine Fuel Temperature Too High
+P0169 Incorrect Fuel Composition
+P0170 Fuel Trim (Bank 1)
+P0171 System Too Lean (Bank 1)
+P0172 System Too Rich (Bank 1)
+P0173 Fuel Trim (Bank 2)
+P0174 System Too Lean (Bank 2)
+P0175 System Too Rich (Bank 2)
+P0176 Flexible Fuel Sensor Circuit
+P0177 Flexible Fuel Sensor Circuit Range/Performance
+P0178 Flexible Fuel Sensor Circuit Low Input
+P0179 Fuel Composition Sensor Circuit High
+P0180 Fuel Temperature Sensor A Circuit
+P0181 Fuel Temperature Sensor A Circuit Range/Performance
+P0182 Fuel Temperature Sensor A Circuit Low Input
+P0183 Fuel Temperature Sensor A Circuit High Input
+P0184 Fuel Temperature Sensor A Circuit Intermittent
+P0185 Fuel Temperature Sensor B Circuit
+P0186 Fuel Temperature Sensor B Circuit Range/Performance
+P0187 Fuel Temperature Sensor B Circuit Low Input
+P0188 Fuel Temperature Sensor B Circuit High Input
+P0189 Fuel Temperature Sensor B Circuit Intermittent
+P0190 Fuel Rail Pressure Sensor
+P0191 Fuel Rail Pressure Sensor Range/Performance
+P0192 Fuel Rail Pressure Sensor Low Input
+P0193 Fuel Rail Pressure Sensor High Input
+P0194 Fuel Rail Pressure Sensor Intermittent
+P0195 Engine Oil Temperature Sensor Circuit
+P0196 Engine Oil Temperature Sensor Circuit Range/Performance
+P0197 Engine Oil Temperature Sensor Circuit Low Input
+P0198 Engine Oil Temperature Sensor Circuit High Input
+P0199 Engine Oil Temperature Sensor Circuit Intermittent
+P0200 Injector Circuit
+P0201 Injector Circuit/Open - Cylinder 1
+P0202 Injector Circuit/Open - Cylinder 2
+P0203 Injector Circuit/Open - Cylinder 3
+P0204 Injector Circuit/Open - Cylinder 4
+P0205 Injector Circuit/Open - Cylinder 5
+P0206 Injector Circuit/Open - Cylinder 6
+P0207 Injector Circuit/Open - Cylinder 7
+P0208 Injector Circuit/Open - Cylinder 8
+P0209 Injector Circuit/Open - Cylinder 9
+P0210 Injector Circuit/Open - Cylinder 10
+P0211 Injector Circuit/Open - Cylinder 11
+P0212 Injector Circuit/Open - Cylinder 12
+P0213 Cold Start Injector 1
+P0214 Cold Start Injector 2
+P0215 Engine Shutoff Solenoid
+P0216 Injector/Injection Timing Control Circuit
+P0217 Engine Coolant Overtemperature Condition
+P0218 Transmission Fluid Overtemperature Condition
+P0219 Engine Overspeed Condition
+P0220 Throttle/Pedal Position Switch B Circuit
+P0221 Throttle/Pedal Position Switch B Circuit Range/Performance
+P0222 Throttle/Pedal Position Sensor B Circuit Low Input
+P0223 Throttle/Pedal Position Sensor B Circuit High Input
+P0224 Throttle/Pedal Position Sensor B Circuit Intermittent
+P0225 Throttle/Pedal Position Sensor C Circuit
+P0226 Throttle/Pedal Position Sensor C Circuit Range/Performance
+P0227 Throttle/Pedal Position Sensor C Circuit Low Input
+P0228 Throttle/Pedal Position Sensor C Circuit High Input
+P0229 Throttle/Pedal Position Sensor C Circuit Intermittent
+P0230 Fuel Pump Primary Circuit
+P0231 Fuel Pump Secondary Circuit Low
+P0232 Fuel Pump Secondary Circuit High
+P0233 Fuel Pump Secondary Circuit Intermittent
+P0234 Turbo/Super Charger Overboost Condition
+P0235 Turbo/Super Charger Boost Sensor A Circuit
+P0236 Turbo/Super Charger Boost Sensor A Circuit Range/Performance
+P0237 Turbo/Super Charger Boost Sensor A Circuit Low
+P0238 Turbo/Super Charger Boost Sensor A Circuit High
+P0239 Turbo/Super Charger Boost Sensor B Circuit
+P0240 Turbo/Super Charger Boost Sensor B Circuit Range/Performance
+P0241 Turbo/Super Charger Boost Sensor B Circuit Low
+P0242 Turbo/Super Charger Boost Sensor B Circuit High
+P0243 Turbo/Super Charger Wastegate Solenoid A
+P0244 Turbo/Super Charger Wastegate Solenoid A Range/Performance
+P0245 Turbo/Super Charger Wastegate Solenoid A Low
+P0246 Turbo/Super Charger Wastegate Solenoid A High
+P0247 Turbo/Super Charger Wastegate Solenoid B
+P0248 Turbo/Super Charger Wastegate Solenoid B Range/Performance
+P0249 Turbo/Super Charger Wastegate Solenoid B Low
+P0250 Turbo/Super Charger Wastegate Solenoid B High
+P0251 Injection Pump Fuel Metering Control A
+P0252 Injection Pump Fuel Metering Control A Range/Performance
+P0253 Injection Pump Fuel Metering Control A Low
+P0254 Injection Pump Fuel Metering Control A High
+P0255 Injection Pump Fuel Metering Control A Intermittent
+P0256 Injection Pump Fuel Metering Control B
+P0257 Injection Pump Fuel Metering Control B Range/Performance
+P0258 Injection Pump Fuel Metering Control B Low
+P0259 Injection Pump Fuel Metering Control B High
+P0260 Injection Pump Fuel Metering Control "B" Intermittent (Cam/Rotor/Injector)
+P0261 Cylinder 1 Injector Circuit Low
+P0262 Cylinder 1 Injector Circuit High
+P0263 Cylinder 1 Contribution/Balance Fault
+P0264 Cylinder 2 Injector Circuit Low
+P0265 Cylinder 2 Injector Circuit High
+P0266 Cylinder 2 Contribution/Balance Fault
+P0267 Cylinder 3 Injector Circuit Low
+P0268 Cylinder 3 Injector Circuit High
+P0269 Cylinder 3 Contribution/Balance Fault
+P0270 Cylinder 4 Injector Circuit Low
+P0271 Cylinder 4 Injector Circuit High
+P0272 Cylinder 4 Contribution/Balance Fault
+P0273 Cylinder 5 Injector Circuit Low
+P0274 Cylinder 5 Injector Circuit High
+P0275 Cylinder 5 Contribution/Balance Fault
+P0276 Cylinder 6 Injector Circuit Low
+P0277 Cylinder 6 Injector Circuit High
+P0278 Cylinder 6 Contribution/Balance Fault
+P0279 Cylinder 7 Injector Circuit Low
+P0280 Cylinder 7 Injector Circuit High
+P0281 Cylinder 7 Contribution/Balance Fault
+P0282 Cylinder 8 Injector Circuit Low
+P0283 Cylinder 8 Injector Circuit High
+P0284 Cylinder 8 Contribution/Balance Fault
+P0285 Cylinder 9 Injector Circuit Low
+P0286 Cylinder 9 Injector Circuit High
+P0287 Cylinder 9 Contribution/Balance Fault
+P0288 Cylinder 10 Injector Circuit Low
+P0289 Cylinder 10 Injector Circuit High
+P0290 Cylinder 10 Contribution/Balance Fault
+P0291 Cylinder 11 Injector Circuit Low
+P0292 Cylinder 11 Injector Circuit High
+P0293 Cylinder 11 Contribution/Balance Fault
+P0294 Cylinder 12 Injector Circuit Low
+P0295 Cylinder 12 Injector Circuit High
+P0296 Cylinder 12 Contribution/Range Fault
+P0300 Random/Multiple Cylinder Misfire Detected
+P0301 Cylinder 1 Misfire Detected
+P0302 Cylinder 2 Misfire Detected
+P0303 Cylinder 3 Misfire Detected
+P0304 Cylinder 4 Misfire Detected
+P0305 Cylinder 5 Misfire Detected
+P0306 Cylinder 6 Misfire Detected
+P0307 Cylinder 7 Misfire Detected
+P0308 Cylinder 8 Misfire Detected
+P0309 Cylinder 9 Misfire Detected
+P0310 Cylinder 10 Misfire Detected
+P0311 Cylinder 11 Misfire Detected
+P0312 Cylinder 12 Misfire Detected
+P0313 Cylinder 13 Misfire Detected
+P0314 Cylinder 14 Misfire Detected
+P0315 Cylinder 15 Misfire Detected
+P0316 Cylinder 16 Misfire Detected
+P0320 Ignition/Distributor Engine Speed Input Circuit Malfunction
+P0321 Ignition/Distributor Engine Speed Input Circuit Range/Performance
+P0322 Ignition/Distributor Engine Speed Input Circuit No Signal
+P0323 Ignition/Distributor Engine Speed Input Circuit Intermittent
+P0325 Knock Sensor 1 Circuit Malfunction (Bank 1 or Single Sensor)
+P0326 Knock Sensor 1 Circuit Range/Performance (Bank 1 or Single Sensor)
+P0327 Knock Sensor 1 Circuit Low Input (Bank 1 or Single Sensor)
+P0328 Knock Sensor 1 Circuit High Input (Bank 1 or Single Sensor)
+P0329 Knock Sensor 1 Circuit Intermittent (Bank 1 or Single Sensor)
+P0330 Knock Sensor 2 Circuit Malfunction (Bank 2)
+P0331 Knock Sensor 2 Circuit Range/Performance (Bank 2)
+P0332 Knock Sensor 2 Circuit Low Input (Bank 2)
+P0333 Knock Sensor 2 Circuit High Input (Bank 2)
+P0334 Knock Sensor 2 Circuit Intermittent (Bank 2)
+P0335 Crankshaft Position Sensor A Circuit Malfunction
+P0336 Crankshaft Position Sensor A Circuit Range/Performance
+P0337 Crankshaft Position Sensor A Circuit Low Input
+P0338 Crankshaft Position Sensor A Circuit High Input
+P0339 Crankshaft Position Sensor A Circuit Intermittent
+P0340 Camshaft Position Sensor Circuit Malfunction
+P0341 Camshaft Position Sensor Circuit Range/Performance
+P0342 Camshaft Position Sensor Circuit Low Input
+P0343 Camshaft Position Sensor Circuit High Input
+P0344 Camshaft Position Sensor Circuit Intermittent
+P0350 Ignition Coil Primary/Secondary Circuit Malfunction
+P0351 Ignition Coil A Primary/Secondary Circuit Malfunction
+P0352 Ignition Coil B Primary/Secondary Circuit Malfunction
+P0353 Ignition Coil C Primary/Secondary Circuit Malfunction
+P0354 Ignition Coil D Primary/Secondary Circuit Malfunction
+P0355 Ignition Coil E Primary/Secondary Circuit Malfunction
+P0356 Ignition Coil F Primary/Secondary Circuit Malfunction
+P0357 Ignition Coil G Primary/Secondary Circuit Malfunction
+P0358 Ignition Coil H Primary/Secondary Circuit Malfunction
+P0359 Ignition Coil I Primary/Secondary Circuit Malfunction
+P0360 Ignition Coil J Primary/Secondary Circuit Malfunction
+P0361 Ignition Coil K Primary/Secondary Circuit Malfunction
+P0362 Ignition Coil L Primary/Secondary Circuit Malfunction
+P0370 Timing Reference High Resolution Signal A Malfunction
+P0371 Timing Reference High Resolution Signal A Too Many Pulses
+P0372 Timing Reference High Resolution Signal A Too Few Pulses
+P0373 Timing Reference High Resolution Signal A Intermittent/Erratic Pulses
+P0374 Timing Reference High Resolution Signal A No Pulses
+P0375 Timing Reference High Resolution Signal B Malfunction
+P0376 Timing Reference High Resolution Signal B Too Many Pulses
+P0377 Timing Reference High Resolution Signal B Too Few Pulses
+P0378 Timing Reference High Resolution Signal B Intermittent/Erratic Pulses
+P0379 Timing Reference High Resolution Signal B No Pulses
+P0380 Glow Plug/Heater Circuit "A" Malfunction
+P0381 Glow Plug/Heater Indicator Circuit Malfunction
+P0382 Exhaust Gas Recirculation Flow Malfunction
+P0385 Crankshaft Position Sensor B Circuit Malfunction
+P0386 Crankshaft Position Sensor B Circuit Range/Performance
+P0387 Crankshaft Position Sensor B Circuit Low Input
+P0388 Crankshaft Position Sensor B Circuit High Input
+P0389 Crankshaft Position Sensor B Circuit Intermittent
+P0400 Exhaust Gas Recirculation Flow Malfunction
+P0401 Exhaust Gas Recirculation Flow Insufficient Detected
+P0402 Exhaust Gas Recirculation Flow Excessive Detected
+P0403 Exhaust Gas Recirculation Circuit Malfunction
+P0404 Exhaust Gas Recirculation Circuit Range/Performance
+P0405 Exhaust Gas Recirculation Sensor A Circuit Low
+P0406 Exhaust Gas Recirculation Sensor A Circuit High
+P0407 Exhaust Gas Recirculation Sensor B Circuit Low
+P0408 Exhaust Gas Recirculation Sensor B Circuit High
+P0410 Secondary Air Injection System Malfunction
+P0411 Secondary Air Injection System Incorrect Flow Detected
+P0412 Secondary Air Injection System Switching Valve A Circuit Malfunction
+P0413 Secondary Air Injection System Switching Valve A Circuit Open
+P0414 Secondary Air Injection System Switching Valve A Circuit Shorted
+P0415 Secondary Air Injection System Switching Valve B Circuit Malfunction
+P0416 Secondary Air Injection System Switching Valve B Circuit Open
+P0417 Secondary Air Injection System Switching Valve B Circuit Shorted
+P0418 Secondary Air Injection System Relay "A" Circuit Malfunction
+P0419 Secondary Air Injection System Relay "B" Circuit Malfunction
+P0420 Catalyst System Efficiency Below Threshold (Bank 1)
+P0421 Warm Up Catalyst Efficiency Below Threshold (Bank 1)
+P0422 Main Catalyst Efficiency Below Threshold (Bank 1)
+P0423 Heated Catalyst Efficiency Below Threshold (Bank 1)
+P0424 Heated Catalyst Temperature Below Threshold (Bank 1)
+P0430 Catalyst System Efficiency Below Threshold (Bank 2)
+P0431 Warm Up Catalyst Efficiency Below Threshold (Bank 2)
+P0432 Main Catalyst Efficiency Below Threshold (Bank 2)
+P0433 Heated Catalyst Efficiency Below Threshold (Bank 2)
+P0434 Heated Catalyst Temperature Below Threshold (Bank 2)
+P0440 Evaporative Emission Control System Malfunction
+P0441 Evaporative Emission Control System Incorrect Purge Flow
+P0442 Evaporative Emission Control System Leak Detected (small leak)
+P0443 Evaporative Emission Control System Purge Control Valve Circuit Malfunction
+P0444 Evaporative Emission Control System Purge Control Valve Circuit Open
+P0445 Evaporative Emission Control System Purge Control Valve Circuit Shorted
+P0446 Evaporative Emission Control System Vent Control Circuit Malfunction
+P0447 Evaporative Emission Control System Vent Control Circuit Open
+P0448 Evaporative Emission Control System Vent Control Circuit Shorted
+P0449 Evaporative Emission Control System Vent Valve/Solenoid Circuit Malfunction
+P0450 Evaporative Emission Control System Pressure Sensor Malfunction
+P0451 Evaporative Emission Control System Pressure Sensor Range/Performance
+P0452 Evaporative Emission Control System Pressure Sensor Low Input
+P0453 Evaporative Emission Control System Pressure Sensor High Input
+P0454 Evaporative Emission Control System Pressure Sensor Intermittent
+P0455 Evaporative Emission Control System Leak Detected (gross leak)
+P0460 Fuel Level Sensor Circuit Malfunction
+P0461 Fuel Level Sensor Circuit Range/Performance
+P0462 Fuel Level Sensor Circuit Low Input
+P0463 Fuel Level Sensor Circuit High Input
+P0464 Fuel Level Sensor Circuit Intermittent
+P0465 Purge Flow Sensor Circuit Malfunction
+P0466 Purge Flow Sensor Circuit Range/Performance
+P0467 Purge Flow Sensor Circuit Low Input
+P0468 Purge Flow Sensor Circuit High Input
+P0469 Purge Flow Sensor Circuit Intermittent
+P0470 Exhaust Pressure Sensor Malfunction
+P0471 Exhaust Pressure Sensor Range/Performance
+P0472 Exhaust Pressure Sensor Low
+P0473 Exhaust Pressure Sensor High
+P0474 Exhaust Pressure Sensor Intermittent
+P0475 Exhaust Pressure Control Valve Malfunction
+P0476 Exhaust Pressure Control Valve Range/Performance
+P0477 Exhaust Pressure Control Valve Low
+P0478 Exhaust Pressure Control Valve High
+P0479 Exhaust Pressure Control Valve Intermittent
+P0480 Cooling Fan 1 Control Circuit Malfunction
+P0481 Cooling Fan 2 Control Circuit Malfunction
+P0482 Cooling Fan 3 Control Circuit Malfunction
+P0483 Cooling Fan Rationality Check Malfunction
+P0484 Cooling Fan Circuit Over Current
+P0485 Cooling Fan Power/Ground Circuit Malfunction
+P0500 Vehicle Speed Sensor Malfunction
+P0501 Vehicle Speed Sensor Range/Performance
+P0502 Vehicle Speed Sensor Low Input
+P0503 Vehicle Speed Sensor Intermittent/Erratic/High
+P0505 Idle Control System Malfunction
+P0506 Idle Control System RPM Lower Than Expected
+P0507 Idle Control System RPM Higher Than Expected
+P0510 Closed Throttle Position Switch Malfunction
+P0520 Engine Oil Pressure Sensor/Switch Circuit Malfunction
+P0521 Engine Oil Pressure Sensor/Switch Circuit Range/Performance
+P0522 Engine Oil Pressure Sensor/Switch Circuit Low Voltage
+P0523 Engine Oil Pressure Sensor/Switch Circuit High Voltage
+P0530 A/C Refrigerant Pressure Sensor Circuit Malfunction
+P0531 A/C Refrigerant Pressure Sensor Circuit Range/Performance
+P0532 A/C Refrigerant Pressure Sensor Circuit Low Input
+P0533 A/C Refrigerant Pressure Sensor Circuit High Input
+P0534 Air Conditioner Refrigerant Charge Loss
+P0550 Power Steering Pressure Sensor Circuit Malfunction
+P0551 Power Steering Pressure Sensor Circuit Range/Performance
+P0552 Power Steering Pressure Sensor Circuit Low Input
+P0553 Power Steering Pressure Sensor Circuit High Input
+P0554 Power Steering Pressure Sensor Circuit Intermittent
+P0560 System Voltage Malfunction
+P0561 System Voltage Unstable
+P0562 System Voltage Low
+P0563 System Voltage High
+P0565 Cruise Control On Signal Malfunction
+P0566 Cruise Control Off Signal Malfunction
+P0567 Cruise Control Resume Signal Malfunction
+P0568 Cruise Control Set Signal Malfunction
+P0569 Cruise Control Coast Signal Malfunction
+P0570 Cruise Control Accel Signal Malfunction
+P0571 Cruise Control/Brake Switch A Circuit Malfunction
+P0572 Cruise Control/Brake Switch A Circuit Low
+P0573 Cruise Control/Brake Switch A Circuit High
+P0574 Cruise Control Related Malfunction
+P0575 Cruise Control Related Malfunction
+P0576 Cruise Control Related Malfunction
+P0577 Cruise Control Related Malfunction
+P0578 Cruise Control Related Malfunction
+P0579 Cruise Control Related Malfunction
+P0580 Cruise Control Related Malfunction
+P0600 Serial Communication Link Malfunction
+P0601 Internal Control Module Memory Check Sum Error
+P0602 Control Module Programming Error
+P0603 Internal Control Module Keep Alive Memory (KAM) Error
+P0604 Internal Control Module Random Access Memory (RAM) Error
+P0605 Internal Control Module Read Only Memory (ROM) Error
+P0606 PCM Processor Fault
+P0608 Control Module VSS Output "A" Malfunction
+P0609 Control Module VSS Output "B" Malfunction
+P0620 Generator Control Circuit Malfunction
+P0621 Generator Lamp "L" Control Circuit Malfunction
+P0622 Generator Field "F" Control Circuit Malfunction
+P0650 Malfunction Indicator Lamp Control Circuit Malfunction
+P0654 Engine RPM Output Circuit Malfunction
+P0655 Engine Hot Lamp Output Control Circuit Malfucntion
+P0656 Fuel Level Output Circuit Malfunction
+P0700 Transmission Control System Malfunction
+P0701 Transmission Control System Range/Performance
+P0702 Transmission Control System Electrical
+P0703 Torque Converter/Brake Switch B Circuit Malfunction
+P0704 Clutch Switch Input Circuit Malfunction
+P0705 Transmission Range Sensor Circuit Malfunction (PRNDL Input)
+P0706 Transmission Range Sensor Circuit Range/Performance
+P0707 Transmission Range Sensor Circuit Low Input
+P0708 Transmission Range Sensor Circuit High Input
+P0709 Transmission Range Sensor Circuit Intermittent
+P0710 Transmission Fluid Temperature Sensor Circuit Malfunction
+P0711 Transmission Fluid Temperature Sensor Circuit Range/Performance
+P0712 Transmission Fluid Temperature Sensor Circuit Low Input
+P0713 Transmission Fluid Temperature Sensor Circuit High Input
+P0714 Transmission Fluid Temperature Sensor Circuit Intermittent
+P0715 Input/Turbine Speed Sensor Circuit Malfunction
+P0716 Input/Turbine Speed Sensor Circuit Range/Performance
+P0717 Input/Turbine Speed Sensor Circuit No Signal
+P0718 Input/Turbine Speed Sensor Circuit Intermittent
+P0719 Torque Converter/Brake Switch B Circuit Low
+P0720 Output Speed Sensor Circuit Malfunction
+P0721 Output Speed Sensor Range/Performance
+P0722 Output Speed Sensor No Signal
+P0723 Output Speed Sensor Intermittent
+P0724 Torque Converter/Brake Switch B Circuit High
+P0725 Engine Speed input Circuit Malfunction
+P0726 Engine Speed Input Circuit Range/Performance
+P0727 Engine Speed Input Circuit No Signal
+P0728 Engine Speed Input Circuit Intermittent
+P0730 Incorrect Gear Ratio
+P0731 Gear 1 Incorrect ratio
+P0732 Gear 2 Incorrect ratio
+P0733 Gear 3 Incorrect ratio
+P0734 Gear 4 Incorrect ratio
+P0735 Gear 5 Incorrect ratio
+P0736 Reverse incorrect gear ratio
+P0740 Torque Converter Clutch Circuit Malfunction
+P0741 Torque Converter Clutch Circuit Performance or Stuck Off
+P0742 Torque Converter Clutch Circuit Stuck On
+P0743 Torque Converter Clutch Circuit Electrical
+P0744 Torque Converter Clutch Circuit Intermittent
+P0745 Pressure Control Solenoid Malfunction
+P0746 Pressure Control Solenoid Performance or Stuck Off
+P0747 Pressure Control Solenoid Stuck On
+P0748 Pressure Control Solenoid Electrical
+P0749 Pressure Control Solenoid Intermittent
+P0750 Shift Solenoid A Malfunction
+P0751 Shift Solenoid A Performance or Stuck Off
+P0752 Shift Solenoid A Stuck On
+P0753 Shift Solenoid A Electrical
+P0754 Shift Solenoid A Intermittent
+P0755 Shift Solenoid B Malfunction
+P0756 Shift Solenoid B Performance or Stuck Off
+P0757 Shift Solenoid B Stuck On
+P0758 Shift Solenoid B Electrical
+P0759 Shift Solenoid B Intermittent
+P0760 Shift Solenoid C Malfunction
+P0761 Shift Solenoid C Performance or Stuck Off
+P0762 Shift Solenoid C Stuck On
+P0763 Shift Solenoid C Electrical
+P0764 Shift Solenoid C Intermittent
+P0765 Shift Solenoid D Malfunction
+P0766 Shift Solenoid D Performance or Stuck Off
+P0767 Shift Solenoid D Stuck On
+P0768 Shift Solenoid D Electrical
+P0769 Shift Solenoid D Intermittent
+P0770 Shift Solenoid E Malfunction
+P0771 Shift Solenoid E Performance or Stuck Off
+P0772 Shift Solenoid E Stuck On
+P0773 Shift Solenoid E Electrical
+P0774 Shift Solenoid E Intermittent
+P0780 Shift Malfunction
+P0781 1-2 Shift Malfunction
+P0782 2-3 Shift Malfunction
+P0783 3-4 Shift Malfunction
+P0784 4-5 Shift Malfunction
+P0785 Shift/Timing Solenoid Malfunction
+P0786 Shift/Timing Solenoid Range/Performance
+P0787 Shift/Timing Solenoid Low
+P0788 Shift/Timing Solenoid High
+P0789 Shift/Timing Solenoid Intermittent
+P0790 Normal/Performance Switch Circuit Malfunction
+P0801 Reverse Inhibit Control Circuit Malfunction
+P0803 1-4 Upshift (Skip Shift) Solenoid Control Circuit Malfunction
+P0804 1-4 Upshift (Skip Shift) Lamp Control Circuit Malfunction
+P1000 Transmission Solenoid Malfunction - OBD II Test Incomplete (Mazda)
+P1000 Monitor Testing Not Complete (Ford)
+P1001 KOER Not Able To Complete, KOER Aborted (Ford)
+P1083 Fuel Control Mixture Lean (Bank 1 Sensor 1) (BMW)
+P1084 Fuel Control Mixture Rich (Bank 1 Sensor 1) (BMW)
+P1085 Fuel Control Mixture Lean (Bank 2 Sensor 1)
+P1086 Fuel Control Mixture Rich (Bank 2 Sensor 1) (BMW)
+P1087 O2 Sensor Circuit Slow Response in Lean Control Range (Bank 1 Sensor 1) (BMW)
+P1088 O2 Sensor Circuit Slow Response in Rich Control Range (Bank 1 Sensor 1) (BMW)
+P1089 O2 Sensor Circuit Slow Response in Lean Control Range (Bank 1 Sensor 2) (BMW)
+P1090 Pre-Catalyst Fuel Trim Too Lean Bank 1 (BMW)
+P1091 Pre-Catalyst Fuel Trim Too Rich Bank 1 (BMW)
+P1092 Pre-Catalyst Fuel Trim Too Lean Bank 2 (BMW)
+P1093 Pre-Catalyst Fuel Trim Too Rich Bank 2 (BMW)
+P1094 O2 Sensor Circuit Slow Response in Rich Control Range (Bank 2 Sensor 1) (BMW)
+P1095 O2 Sensor Circuit Slow Switching From Lean to Rich (Bank 1 Sensor 1) (BMW)
+P1096 O2 Sensor Circuit Slow Switching From Lean to Rich (Bank 2 Sensor 1) (BMW)
+P1097 O2 Sensor Circuit Slow Response after Coast Down Fuel Cutoff (Bank 1 Sensor 1) (BMW)
+P1098 O2 Sensor Circuit Slow Response after Coast Down Fuel Cutoff (Bank 2 Sensor 2) (BMW)
+P1100 Mass Air Flow Intermittent (Mazda); Manifold Absolute Pressure (MAP) Sensor Malfunction (Open/Short) (Hyundai)
+P1101 Mass Air Flow Out Of Range (Mazda)
+P1102 Manifold Absolute Pressure (MAP) Sensor Malfunction - Low Voltage (Hyundai)
+P1103 Manifold Absolute Pressure (MAP) Sensor Malfunction - High Voltage (Hyundai)
+P1105 MAP/BARO Switch Solenoid Valve (Infiniti)
+P1106 Manifold Absolute Pressure (MAP) sensor circuit intermittent high voltage; Barometric pressure circuit problem (Acura, Honda)
+P1107 Manifold Absolute Pressure (MAP) sensor circuit intermittent low voltage; Barometric pressure circuit low input (Acura, Honda)
+P1108 BARO to MAP signal circuit comparison too high; Barometric pressure circuit high input (Acura, Honda)
+P1110 Intake Valve Timing Control (Left Bank) (Infiniti); Atmospheric Pressure Sensor Low Input (Subaru)
+P1111 Intake Air Temperature (IAT) sensor intermittent high voltage; Engine Coolant Temperature Radiator Outlet Sensor Low Input (BMW); Atmospheric Pressure Sensor High Input (Subaru)
+P1112 Intake Air Temperature (IAT) sensor intermittent low voltage; Engine Coolant Temperature Radiator Outlet Sensor High Input (BMW); Atmospheric Pressure Sensor Range/Performance Problem (Subaru)
+P1114 Engine Coolant Temperature (ECT) sensor circuit intermittent low voltage; Intake Air Temperature 2 Circuit Low Input (Ford)
+P1115 Engine Coolant Temperature (ECT) sensor circuit intermittent high voltage; Coolant Temperature Sensor Plausibility (BMW); Intake Air Temperature 2 Circuit High Input (Ford)
+P1116 Mass Or Volume Air Flow Circuit Range/Performance Problem (Bank 2) (BMW); ECT Sensor Out Of Range (Ford, Mazda)
+P1117 Mass Or Volume Air Flow Circuit Low Input (Bank 2) (BMW); ECT Intermittent (Ford, Mazda)
+P1118 Mass Or Volume Air Flow Circuit High Input (Bank 2) (BMW)
+P1120 Pedal Position Sensor Circuit (BMW); TPS Out Of Range Low (Ford, Mazda); Secondary Throttle Position Sensor (STPS) (Infiniti)
+P1121 Throttle Position (TP) Sensor Inconsistent With MAF Sensor High Voltage; Pedal Position 1 Range/Performance Problem (BMW)
+P1122 Throttle Position (TP) Sensor Inconsistent With MAF Sensor Low Voltage; Pedal Position 1 Low Input (BMW)
+P1123 Pedal Position 1 High Input (BMW)
+P1124 TPS Out Of Self Test Range (Ford, Mazda)
+P1125 TPS Intermittant (Ford, Infiniti); Tandem Throttle Position Sensor(Mazda)
+P1126 Thermostat Function (Nissan)
+P1127 Exhaust Not Warm Enough, Downstream Sensor Not Tested (Ford)
+P1128 MAP Lower Than Expected (Acura, Honda)
+P1129 MAP Higher Than Expected (Acura, Honda); Upstream O2 Sensors Swapped Bank To Bank (HO2S-11-21) (Ford); Downstream O2 Sensors Swapped Bank To Bank (HO2S-12-22) (Mazda)
+P1130 Lack Of HO2S-11, Fuel Trim At Limit (Ford); Heated O2 Sensor (HO2S) 11 At Adaptive Limit (Mazda); Swirl Control SOL/V (Nissan); Front Right Oxygen Sensor Circuit Open (Subaru); A/F Sensor Circuit Range/Performance (Bank 1 Sensor 1) (Toyota)
+P1131 HO2S 11 Indicates Lean (Ford, Mazda); Front Right Oxygen Sensor Circuit Shorted (Subaru)
+P1132 O2 Sensor Heater Control Circuit (Bank 1 Sensor 1) (BMW); HO2S 11 Indicates Rich (Ford, Mazda)
+P1133 Heated Oxygen Sensor (HO2S) insufficient switching bank 1 sensor 1 (Rear Bank); O2 Sensor Heater Control Circuit (Bank 2 Sensor 1) (BMW); A/F Sensor Circuit Response (Bank 1 Sensor 1) (Toyota)
+P1134 Heated Oxygen Sensor (HO2S) transition time ratio bank 1 sensor 1 (Rear Bank); O2 Sensor Heater Circuit Signal Intermittent (Bank 1 Sensor 2) (BMW); Front Oxygen (A/F) Sensor Micro-Computer Problem (Subaru)
+P1135 O2 Sensor Heater Circuit Low Voltage (Bank 1 Sensor 1) (BMW); Intake Valve Timing Control (Right Bank) (Infiniti); Front Left Oxygen Sensor Circuit Open (Subaru); A/F Sensor Heater Circuit Malfunction (Bank 1 Sensor 1) (Toyota)
+P1136 O2 Sensor Heater Circuit High Voltage (Bank 1 Sensor 1) (BMW); Front Left Oxygen Sensor Curcuit Shorted (Subaru)
+P1137 O2 Sensor Heater Circuit Signal Intermittant (Bank 1 Sensor 2) (BMW); Lack Of HO2S-12 Switch Indicates Lean (Ford)
+P1138 O2 Sensor Heater Circuit Low Voltage (Bank 1 Sensor 2) (BMW); Lack Of HO2S-12 Switch Indicates Rich (Ford)
+P1139 O2 Sensor Heater Circuit High Voltage (Bank 1 Sensor 2) (BMW); Front Right Oxygen Sensor Heater Circuit Range (Subaru)
+P1140 Mass or Volume Air Flow Circuit Range/Performance Problem (BMW); Intake Valve Timing Control Position Sensor (Left Bank) (Infiniti); Front Left Oxygen Sensor Heater Circuit Range (Subaru)
+P1142 TPS Circuit Range/Perf. Problem (Low Input) (Subaru)
+P1144 Mass Air Flow Sensor Open/Short To Ground. (Volkswagen)
+P1145 Solenoid Valve Running Losses Control Circuit Electrical (BMW); Intake Valve Timing Control Position Sensor (Right Bank) (Infiniti); Mass Air Flow Sensor Short To Positive (Volkswagen)
+P1146 Pressure Sensor Circuit Range/Perf. (High Input) (Subaru); Mass Air Flow Sensor Supply Voltage (Volkswagen)
+P1147 ETS Sub Accel Position Sensor 1 Malfunction (Hyundai)
+P1148 Closed Loop Control (Bank 1) (Nissan, Infiniti)
+P1150 Lack Of HO2S-21 Switch Fuel Trim At Limit (Ford); A/F Sensor Circuit Range/Performance (Bank 2 Sensor 2) (Toyota)
+P1151 O2 Sensor Heater Circuit Signal Intermittant (Bank 2 Sensor 1) (BMW); Lack Of HO2S-21 Switch Indicates Lean (Ford); ETS Main Accel Position Sensor 2 Malfunction (Hyundai)
+P1152 O2 Sensor Heater Circuit Low Voltage (Bank 2 Sensor 1) (BMW); Lack Of HO2S-21 Switch Indicates Rich (Ford)
+P1153 O2 Sensor Heater Circuit High Voltage (Bank 2 Sensor 1) (BMW); Heated Oxygen Sensor (HO2S) insufficient switching bank 2 sensor 1 (Front Bank); A/F Sensor Circuit Response (Bank 2 Sensor 1) (Toyota)
+P1154 Heated Oxygen Sensor (HO2S) transition time ratio bank 2 sensor 1 (Front Bank)
+P1155 O2 Sensor Heater Circuit Intermittant (Bank 2 Sensor 2) (BMW); ETS Limp Home Valve (Hyundai); A/F Sensor Heater Circuit (Bank 2 Sensor 1) (Toyota); Manifold Absolute Pressure Sensor Short To Positive. (Volkswagen)
+P1156 O2 Sensor Heater Circuit Low Voltage (Bank 2 Sensor 2) (BMW); Manifold Absolute Pressure Sensor Open/Short To Ground. (Volkswagen)
+P1157 O2 Sensor Heater Circuit High Voltage (Bank 2 Sensor 2) (BMW); Lack Of HO2S-22 Switch Indicates Lean (Ford); Manifold Absolute Pressure Sensor Supply Voltage (Volkswagen)
+P1158 Fuel Trim Additve Bank 1 Low (BMW); Lack Of HO2S-22 Switch Indicates Rich (Ford)
+P1159 Fuel Trim Additve Bank 1 High (BMW); Variable Intake Motor Malfunction (Hyundai)
+P1160 Fuel Trim Additve Bank 2 Low (BMW); Intake Air Temperature Sensor Short To Ground. (Volkswagen)
+P1161 Fuel Trim Additve Bank 2 High (BMW); Intake Air Temperature Sensor Open/Short To Positive (Volkswagen)
+P1162 Fuel Trim Additve Per Ignition Bank 1 Low (BMW); Intake Air Temperature Sensor Short To Ground (Volkswagen)
+P1163 Fuel Trim Additve Per Ignition Bank 1 High (BMW); Fuel Temperature Sensor Open/Short To Positive (Volkswagen)
+P1164 Fuel Trim Additve Per Ignition Bank 2 Low (BMW); Fuel Temperature Sensor Implausible Signal (Volkswagen)
+P1165 Fuel Trim Additve Per Ignition Bank 2 High (BMW); Swirl Control Valve Control Vacuum Check Switch (Nissan)
+P1168 FRP Sensor In Range But Low (Ford); Closed Loop Control (Bank 2) (Nissan, Infiniti)
+P1169 FRP Sensor In Range But High (Ford)
+P1171 Electronic Throttle System Open (Hyundai)
+P1172 Electronic Throttle System Motor Current (Hyundai)
+P1173 Electronic Throttle System Rationality Malfunction (Hyundai)
+P1174 Fuel Trim Adaptation Additve Bank 1 Malfunction (BMW); Electronic Throttle System #1 Close Malfunction (Hyundai)
+P1175 Fuel Trim Adaptation Additve Bank 2 Malfunction (BMW); Electronic Throttle System #2 Close Malfunction (Hyundai)
+P1176 O2 Sensor Slow Response Bank 1 (BMW); ETS Motor Open/Short #1 (Hyundai); ETS Motor Open/Short #2 (Hyundai)
+P1177 O2 Sensor Slow Response Bank 2 (BMW)
+P1178 O2 Sensor Signal Circuit Slow Switching From Rich to Lean (Bank 1 Sensor 1) (BMW); ETS Motor Battery Voltage Open (Hyundai)
+P1179 O2 Sensor Signal Circuit Slow Switching From Rich to Lean (Bank 2 Sensor 1) (BMW)
+P1180 O2 Sensor Signal Circuit Slow Switching From Rich to Lean (Bank 1 Sensor 2) (BMW); Fuel Delivery System Low (Ford)
+P1181 O2 Sensor Signal Circuit Slow Switching From Rich to Lean (Bank 2 Sensor 2) (BMW); Fuel Delivery System High (Ford)
+P1182 O2 Sensor (Bank 1 Sensor 2) Open Circuit During Coast Down Fuel Cut-off (BMW)
+P1183 EOT Sensor Circuit Malfunction (Ford)
+P1183 O2 Sensor (Bank 2 Sensor 2) Open Circuit During Coast Down Fuel Cut-off (BMW)
+P1184 EOT Sensor Out Of Range (Ford)
+P1186 O2 Sensor Heater Control Circuit (Bank 1 Sensor 2) (BMW)
+P1187 O2 Sensor Heater Control Circuit (Bank 2 Sensor 2) (BMW)
+P1188 Fuel Control (Bank 1 Sensor 1) (BMW)
+P1189 Fuel Control (Bank 2 Sensor 1) (BMW); Engine Oil Pressure Switch Circuit
+P1190 Pre-catalyst Fuel Trim System Bank 1 (BMW)
+P1191 Pre-catalyst Fuel Trim System Bank 2 (BMW)
+P1192 Post-catalyst Fuel Trim System Bank 1 (BMW); Inlet Air Temp. Circuit Low (Chrysler, Jeep)
+P1193 Post-catalyst Fuel Trim System Bank 2 (BMW); Inlet Air Temp. Circuit High (Chrysler, Jeep)
+P1195 1/1 O2 Sensor Slow During Catalyst Monitor (Chrysler, Jeep)
+P1196 2/1 O2 Sensor Slow During Catalyst Monitor (Chrysler, Jeep)
+P1197 1/2 O2 Sensor Slow During Catalyst Monitor (Chrysler, Jeep)
+P1198 Radiator Temperature Sensor Volts Too High (Chrysler, Jeep)
+P1199 Radiator Temperature Sensor Volts Too Low (Chrysler, Jeep)
+P1210 Traction Control System (TCS) Signal Circuit (Infiniti)
+P1211 ABS/TCS Control Unit (Nissan)
+P1212 ABS/TCS Communication Line (Nissan)
+P1217 Engine Over Temperature (Overheat) (Nissan)
+P1220 Fuel Pump Control Module (FPCM) (Infiniti)
+P1221 Pedal Position Sensor 2 Range/Performance Problem (BMW)
+P1222 Pedal Position Sensor 2 Low Input (BMW)
+P1223 Pedal Position Sensor 2 High Input (BMW)
+P1229 Supercharger Intercooler Pump Not Working (Ford)
+P1232 Low Speed Fuel Pump Primary Circuit Malfunction (Ford)
+P1233 Fuel System Disabled Or Offline (Ford)
+P1234 Fuel System Disabled Or Offline (Ford)
+P1235 Fuel Pump Control Out Of Range (Ford)
+P1236 Fuel Pump Control Out Of Range (Ford)
+P1237 Fuel Pump Secondary Circuit Malfunction (Ford)
+P1238 Fuel Pump Secondary Circuit Malfunction (Ford)
+P1244 Generator Load Input Low (Ford)
+P1245 Generator Load Input High (Ford)
+P1245 Needle Lift Sensor Short To Ground (Volkswagen)
+P1246 Generator Load Input Failed (Ford); Needle Lift Implausible Signal (Volkswagen)
+P1247 Needle Lift Sensor Open/Short To Positive (Volkswagen)
+P1248 Start Of Cold Start Injector Control Difference (Volkswagen)
+P1251 Start Of Cold Start Injector Short To Positive (Volkswagen)
+P1252 Start Of Cold Start Injector Open/Short To Ground (Volkswagen)
+P1255 Engine Coolant Temperature Sensor Short To Ground (Volkswagen)
+P1256 Engine Coolant Temperature Sensor Open/Short To Positive (Volkswagen)
+P1258 Engine Metal Over Temperature Protection
+P1259 VTEC System Malfunction (Acura, Honda)
+P1260 Fuel Pump Speed Relay Control Circuit (GM); Theft Detected - Engine Disabled (Ford, Mazda)
+P1270 Control Module Self-Test, Torque Monitoring (BMW); Vehicle Speed Limiter Reached (Ford, Mazda)
+P1271 Ambient Air Pressure Sensor Electrical (BMW)
+P1281 Engine Is Cold Too Long (Chrysler, Jeep)
+P1282 Fuel Pump Relay Control Circuit(Chrysler, Jeep)
+P1283 Switching Solenoid for Air Assisted Injection Valves Bank 1 Control Circuit Electrical (BMW)
+P1284 Switching Solenoid for Air Assisted Injection Valves Bank 1 Control Circuit Signal Low (BMW)
+P1285 Switching Solenoid for Air Assisted Injection Valves Bank 1 Control Circuit Signal High (BMW)
+P1285 Cylinder Head Over Temperature Sensed (Ford)
+P1287 Switching Solenoid for Air Assisted Injection Valves Bank 2 Control Circuit Electrical (BMW)
+P1288 Switching Solenoid for Air Assisted Injection Valves Bank 2 Control Circuit Signal Low (BMW); Intake Manifold Short Runner Solenoid Circuit (Chrysler, Jeep); CHT Sensor Out of Self-Test Range (Ford)
+P1289 Switching Solenoid for Air Assisted Injection Valves Bank 2 Control Circuit Signal High (BMW); Manifold Tune Valve Solenoid Circuit (Chrysler, Jeep); CHT Sensor High Input (Ford)
+P1290 CNG Fuel Pressure Too High (Chrysler, Jeep); CHT Sensor Low Input (Ford)
+P1291 No Temp Rise Seen From Fuel Heaters (Chrysler, Jeep)
+P1292 CNG Pressure Sensor Voltage Too High (Chrysler, Jeep)
+P1293 CNG Pressure Sensor Voltage Too Low (Chrysler, Jeep)
+P1294 Target Idle Not Reached (Chrysler, Jeep)
+P1295 No 5 Volts To TP Sensor (Chrysler, Jeep)
+P1296 No 5 Volts To MAP Sensor (Chrysler, Jeep)
+P1297 Low Voltage ELD Circuit (Acura, Honda)
+P1297 No Change in MAP From Start To Run (Chrysler, Jeep)
+P1298 High Voltage In ELD Circuit (Acura, Honda); Lean Operation At wide Open Throttle (Chrysler, Jeep)
+P1299 Vacuum Leak Found (IAC Fully Seated)(Chrysler, Jeep); Cylinder Head Over Temperature Protection Active (Ford)
+P1300 Random Misfire (Acura)
+P1300 Igniter Circuit Malfunction (Toyota)
+P1309 Misfire Monitor Disabled (Ford)
+P1313 "A" Camshaft Position Plausibility (BMW)
+P1317 "B" Camshaft Position Plausibility (BMW)
+P1320 Ignition Control (IC) Module 4x Reference Circuit Intermittent No Pulses; Ignition Signal (Nissan, Infiniti)
+P1323 Ignition Control (IC) Module 24x Reference Circuit low frequency
+P1327 Knock Sensor 2 (Bank 1) Low Input (BMW)
+P1328 Knock Sensor 2 (Bank 1) High Input (BMW)
+P1330 Spark Timing Adjust Malfunction (Hyundai)
+P1332 Knock Sensor 4 Low Input (BMW)
+P1333 Knock Sensor 4 High Input (BMW)
+P1335 Crankshaft Position Sensor (REF) (Nissan); Crankshaft Position Sensor Circuit Malfunction (Toyota)
+P1336 Crankshaft Speed Fluctuation Sensor Intermittant Interruption (Acura); CKP and/or CMP Input Signal to PCM Concerns (Ford); Crankshaft Position System Variation Not Learned (GM); Crankshaft Position Sensor (CKPS) (Nissan, Infiniti)
+P1337 Crankshaft Speed Fluctuation Sensor No Signal (Acura)
+P1340 Multiple Cylinder Misfire During Start (BMW)
+P1341 Multiple Cylinder Misfire With Fuel Cut-off (BMW)
+P1342 Misfire During Start Cylinder 1 (BMW)
+P1343 Misfire Cylinder 1 With Fuel Cut-off (BMW)
+P1344 Misfire During Start Cylinder 2 (BMW)
+P1345 Misfire Cylinder 2 With Fuel Cut-off (BMW)
+P1346 Misfire During Start Cylinder 3 (BMW)
+P1347 Misfire Cylinder 3 With Fuel Cut-off (BMW)
+P1348 Misfire During Start Cylinder 4 (BMW)
+P1349 Misfire Cylinder 4 With Fuel Cut-off (BMW)
+P1350 Misfire During Start Cylinder 5 (BMW); Ignition Control System
+P1351 Misfire Cylinder 5 With Fuel Cut-off (BMW); Ignition Coil Control Circuit High Voltage (GM)
+P1352 Misfire During Start Cylinder 6 (BMW); Ignition Bypass Circuit High Voltage (GM)
+P1353 Misfire Cylinder 6 With Fuel Cut-off (BMW)
+P1354 Misfire During Start Cylinder 7 (BMW); Modulating Piston Displacement Sensor Electrial Circuit Malfunction (Volkswagen)
+P1355 Misfire Cylinder 7 With Fuel Cut-off (BMW)
+P1356 Misfire During Start Cylinder 8 (BMW)
+P1357 Misfire Cylinder 8 With Fuel Cut-off (BMW)
+P1358 Misfire During Start Cylinder 9 (BMW)
+P1359 Crankshaft Position/TDC/Cylinder Position Sensor Connector Disconnection (Acura)
+P1359 Misfire Cylinder 9 With Fuel Cut-off (BMW)
+P1360 Misfire During Start Cylinder 10 (BMW)
+P1361 Intermittent Interruption In TDC1 Sensor Circuit (Acura, Honda); Misfire Cylinder 10 With Fuel Cut-off (BMW); Ignition Control (IC) Circuit Low Voltage (GM)
+P1362 No Signal In TDC 1 Sensor Circuit (Acura, Honda); Misfire During Start Cylinder 11 (BMW); Ignition Bypass Circuit Low Voltage (GM)
+P1363 Misfire Cylinder 11 With Fuel Cut-off (BMW)
+P1364 Misfire During Start Cylinder 12 (BMW)
+P1365 Misfire Cylinder 12 With Fuel Cut-off (BMW)
+P1366 Intermittent Interruption In TDC 2 Sensor Circuit (Acura, Honda)
+P1367 No Signal In TDC 2 Sensor Circuit (Acura, Honda)
+P1370 Ignition Control (IC) Module 4x Reference too many pulses
+P1371 Ignition Control (IC) Module 4x Reference too few pulses
+P1374 CKP High to Low Resolution Frequency Correlation (GM)
+P1375 Ignition Control (IC) Module 24x Reference High Voltage
+P1376 Ignition Ground Circuit
+P1377 Ignition Control (IC) Module Cam Pulse to 4x Reference Pulse Comparison
+P1380 EBTCM DTC Detected-Rough Data Unusable; Misfire Detected - Rough Road Data Not Available (GM); Variable Cam Timing Solenoid A Circuit Malfunction (Ford)
+P1381 Misfire Detected-No EBTCM/PCM Serial Data; Cylinder Position Sensor Intermittant Inturruption (Acura); Variable Cam Timing Over-advanced (Bank 1) (Ford); Misfire Detected - No Communication With Brake Control Module (GM)
+P1382 Cylinder Position Sensor No Signal (Acura)
+P1383 Variable Cam Timing Over-retarded (Bank 1) (Ford)
+P1384 Knock Sensor 3 Circuit (BMW)
+P1385 Knock Sensor 4 Circuit (BMW)
+P1386 Control Module Self-test, Knock Control Baseline Test Bank 1 (BMW)
+P1387 Engine Control Module Inoperative (Volkswagen)
+P1388 Auto Shutdown Relay Circuit (Chrysler, Jeep)
+P1389 No ASD Relay Output Voltage At PCM (Chrysler, Jeep)
+P1390 Timing Belt Skipped One Tooth or More (Chrysler, Jeep); Octane Adjust Out Of Range (Mazda)
+P1391 Intermittent Loss of CMP or CKP (Chrysler, Jeep)
+P1396 Crankshaft Position Sensor Segment Timing Plausibility (BMW)
+P1397 Camshaft Position Sensor "B" Circuit (Bank 1) (BMW)
+P1398 Mis-Fire Adapter Numerator at Limit (Chrysler, Jeep)
+P1399 Wait To Start Lamp Circuit (Chrysler, Jeep)
+P1400 Heated Catalyst Battery Voltage or Current too Low During Heating (Bank 1) (BMW); DPFE Sensor Low Voltage (Ford, Mazda); EGRC-Solenoid Valve (Infiniti); Manifold Differential Pressure Sensor Circuit Malfunction (Mitsubishi); Fuel Tank Pressure Control Solenoid Circuit Low Input (Subaru)
+P1401 Heated Catalyst Current too High During Heating (Bank 1) (BMW); DPFE Sensor High Voltage (Ford, Mazda); EGR Temperature Sensor (Infiniti)
+P1402 Heated Catalyst Power Switch Overtemperature Condition (Bank 1) (BMW); EGR Function (Open) (Infiniti); EGR Vacuum Regulator Solenoid Valve Short To Positive (Volkswagen)
+P1403 Carbon Canister Shut Off valve Control Circuit Electrical (BMW); No 5 Volts To EGR Sensor (Chrysler, Jeep); DPFE Hoses Reversed (Mazda); EGR System Control Difference (Volkswagen)
+P1404 Exhaust Gas Recirculation Valve Pintle Stuck Open; Heated Catalyst Current too High During Heating (Bank 2) (BMW); EGR Closed Position Performance (GM)
+P1405 Heated Catalyst Power Switch Overtemperature Condition (Bank 2) (BMW); DPFE Upstream Hose Off Or Plugged (Ford, Mazda)
+P1406 Heated Catalyst Internal Control Module Checksum/ROM Error (BMW); DPFE Downstream Hose Off Or Plugged (Ford, Mazda)
+P1407 EGR No Flow Detected (Mazda)
+P1408 EGR Out Of Self Test Range (Ford, Mazda)
+P1409 EGR Vacuum Regulator Solenoid Circuit Malfunction (Ford, Mazda)
+P1410 EGR Valve Position Sensor Circuit Malfunction (Toyota)
+P1411 Secondary Air Injection System Downstream Flow (Ford)
+P1413 Secondary Air Injection Pump Relay Control Circuit Signal Low (BMW)
+P1413 Secondary Air Injection System Monitor Circuit Low (Ford)
+P1414 Secondary Air Injection System Monitor Circuit High (BMW, Ford)
+P1415 Secondary Air Injection (AIR) System Bank 1 (GM)
+P1416 Secondary Air Injection (AIR) System Bank 2 (GM)
+P1420 Secondary Air Valve Control Circuit Electrical(BMW); Fuel Tank Pressure Control Solenoid Circuit High Input (Subaru)
+P1421 Secondary Air System Bank 1 (BMW)
+P1422 Secondary Air System Bank 2 (BMW)
+P1432 Secondary Air Injection System Incorrect Flow Detected (BMW); THTRC Circuit Failure (Ford)
+P1436 A/C Evaporator Temperature Circuit Low Input (Ford)
+P1437 A/C Evaporator Temperature Circuit High Input (Ford)
+P1438 Purge Control Valve Control Open Circuit (BMW)
+P1439 Purge Control Valve Control Circuit Signal Low(BMW)
+P1440 Purge Control Valve Control Circuit Signal High (BMW); EVAP Control System (Small Leak, Positive Pressure) (Nissan, Infiniti)
+P1441 Leakage Diagnostic Pump Control Open Circuit (BMW); Evaporative Emission System Flow During Non-Purge (GM); EGR Vacuum Regulator Solenoid Valve Open/Short To Ground (Volkswagen)
+P1442 Leakage Diagnostic Pump Control Circuit Signal Low (BMW)
+P1443 Leakage Diagnostic Pump Control Circuit Signal High (BMW); Small Or No Purge Flow Condition (Ford); Evaporative Emission Control System (Mazda); EVAP System Vent Control Function Problem (Subaru)
+P1444 Diagnostic Module Tank Leakage (DM-TL) Pump Control Open Circuit (BMW); Purge Flow Sensor Low Input (Mazda); Canister Purge Volume Control Solenoid Valve (Nissan, Infiniti)
+P1445 Diagnostic Module Tank Leakage (DM-TL) Pump Control Circuit Signal Low (BMW); Purge Flow Sensor High Input (Mazda)
+P1446 Diagnostic Module Tank Leakage (DM-TL) Pump Control Circuit Signal High (BMW); EVAP Canister Vent Control Valve (Close) (Nissan, Infiniti)
+P1447 Diagnostic Module Tank Leakage (DM-TL) Pump Too High During Switching (BMW); EVAP Control System Purge Flow Monitoring (Nissan, Infiniti)
+P1448 Diagnostic Module Tank Leakage (DM-TL) Pump Too Low During Switching (BMW); EVAP Canister Vent Control Valve (Open) (Nissan, Infiniti)
+P1449 Diagnostic Module Tank Leakage (DM-TL) Pump Too High (BMW)
+P1450 Diagnostic Module Tank Leakage (DM-TL) Switching Solenoid Open Circuit (BMW); Unable To Bleed Up Fuel Tank Vacuum (Ford)
+P1451 Diagnostic Module Tank Leakage (DM-TL) Switching Solenoid Control Circuit Signal Low (BMW); EVAP Control System Canister Vent Solenoid Circuit Malfunction (Ford)
+P1452 Diagnostic Module Tank Leakage (DM-TL) Switching Solenoid Control Circuit Signal High (BMW)
+P1453 Secondary Air Injection Pump Relay Control Circuit Electrical (BMW)
+P1454 Secondary Air Injection Pump With Series Resistor Control Circuit Electrical (BMW)
+P1456 Leak Detected In EVAP Control System (Acura, Honda); Heated Catalyst Heater Power Supply Open Circuit (Bank 1) (BMW)
+P1457 Leak Detected In EVAP Control System (Acura, Honda)' Heated Catalyst Heater Power Switch Temperature Sensor Electrical (Bank 1) (BMW)
+P1459 Heated Catalyst Heater Power Supply Open Circuit (Bank 2) (BMW)
+P1460 Heated Catalyst Heater Power Switch Temperature Sensor Electrical (Bank 2) (BMW); WOT A/C Cutoff Circuit Malfunction (Ford, Mazda)
+P1461 Heated Catalyst Gate Voltage Signal Low (BMW); ACP Sensor High Voltage (Ford)
+P1462 Heated Catalyst Internal Control Module Checksum/ROM Error (BMW); ACP Sensor Low Voltage (Ford)
+P1463 Heated Catalyst Battery Temperature Sensor 1 Electrical (BMW); ACP Sensor Insufficient Pressure Change (Ford)
+P1464 Heated Catalyst Battery Temperature Sensor 2 Electrical (BMW); A/C Demand Out Of Range (Ford); Fuel Level Sensor Circuit (Ground Signal) (Nissan)
+P1465 Heated Catalyst Battery Temperature Sensor 1 or 2 Plausibility (BMW)
+P1466 Heated Catalyst Power Switch Temperature Sensor Plausibility (BMW)
+P1467 Heated Catalyst Comparison Battery Voltages of Power Switches Plausibility (BMW)
+P1468 Heated Catalyst Battery Disconnecting Switch Plausibility (BMW)
+P1469 Low A/C Cycling Period (Ford)
+P1470 Leakage Diagnostic Pump Control Circuit Electrical (BMW)
+P1472 Diagnostic Module Tank leakage (DM-TL) Switching Solenoid Control Circuit Electrical (BMW)
+P1473 Diagnostic Module Tank leakage (DM-TL) Pump Current Plausibility (BMW)
+P1474 HCF or LFC Primary Circuit Failure (Ford)
+P1475 Leakage Diagnostic Pump Reed Switch Did Not Close (BMW)
+P1476 Leakage Diagnostic Pump Clamped Tube (BMW); Too Little Secondary Air (Chrysler, Jeep)
+P1477 Leakage Diagnostic Pump Reed Switch Did Not Open (BMW); Too Much Secondary Air (Chrysler, Jeep); MFC Primary Circuit Failure (Ford)
+P1478 Battery Temp Sensor Volts Out of Limit (Chrysler, Jeep)
+P1479 Transmission Fan Relay Circuit (Chrysler, Jeep); HFC Primary Circuit Failure (Ford)
+P1480 PCV Solenoid Valve (Chrysler, Jeep); Cooling Fan Relay 1 Circuit High Input (Subaru)
+P1482 Catalyst Temperature Sensor Circuit Shorted Low (Chrysler, Jeep)
+P1483 Engine Cooling System Performance; Catalyst Temperature Sensor Circuit Shorted High (Chrysler, Jeep)
+P1484 Catalytic Converter Overheat Detected (Chrysler, Jeep)
+P1485 Air Injection Solenoid Circuit (Chrysler, Jeep)
+P1486 Evap Leak Monitor Pinched Hose (Chrysler, Jeep)
+P1487 Hi Speed Rad Fan CTRL Relay Circuit (Chrysler, Jeep)
+P1488 Auxiliary 5 Volt Supply Output Too Low (Chrysler, Jeep)
+P1489 High Speed Fan CTRL Relay Circuit (Chrysler, Jeep)
+P1490 Low Speed Fan CTRL Relay Circuit (Chrysler, Jeep); Vacuum Cut Valve Bypass Valve (Circuit) (Nissan, Infiniti)
+P1491 Malfunction In EGR System (Acura, Honda); Radiator Fan Control Relay Circuit (Chrysler, Jeep); Vacuum Cut Valve Bypass Valve (Nissan, Infiniti)
+P1492 EVAP Canister Purge Control/Solenoid Valve (Circuit) (Nissan, Infiniti); Ambient/Battery Temp Sensor Volts Too High (Chrysler, Jeep)
+P1493 Ambient/Battery Temp Sensor Volts Too Low (Chrysler, Jeep); EVAP Canister Purge Control Valve/Solenoid Valve (Infiniti)
+P1494 Leak Detection Pump Switch or Mechanical Fault (Chrysler, Jeep)
+P1495 Leak Detection Pump Solenoid Circuit (Chrysler, Jeep)
+P1496 5 Volt Supply Output Too Low (Chrysler, Jeep)
+P1498 Voltage Problem In EGR Valve Position Sensor Circuit (Acura, Honda); High speed Rad Fan Ground CTRL Rly Circuit (Chrysler, Jeep)
+P1500 Idle Speed Control Valve Stuck Open (BMW)
+P1500 Vehicle Speed Sensor (VSS) Intermittent (Ford, Mazda); Generator FR Terminal Circuit Malfunction (Mitsubishi)
+P1501 Idle Speed Control Valve Stuck Closed (BMW); Vehicle Speed Sensor (VSS) Out Of Range (Ford)
+P1502 Idle Speed Control Valve Closing Solenoid Control Circuit Signal High (BMW); Vehicle Speed Sensor (VSS) Intermittent (Ford); Idle Speed Control Valve Closing Solenoid Control Circuit Signal Low (BMW)
+P1503 Idle Speed Control Valve Closing Solenoid Control Circuit Signal Low (BMW)
+P1504 Idle Speed Control Valve Closing Solenoid Control Open Circuit (BMW); Idle Air Control (IAC) Circuit Malfunction (Ford)
+P1505 Idle Speed Control Valve Closing Solenoid Control Circuit Electrical (BMW); Idle Air Control At Adaptive Clip (Mazda)
+P1506 Idle Speed Control Valve Open Solenoid Control Circuit Signal High (BMW); Idle Air Control System Overspeed Error (Ford, Mazda)
+P1507 Idle Speed Control Valve Open Solenoid Control Circuit Signal Low (BMW); Idle Air Control System Underspeed Error (Ford, Mazda); Idle Control System Malfunction (Fail-Safe) (Subaru)
+P1508 Idle Air Control (IAC) System - Low RPM; Idle Air Control Valve Circuit Failure (Acura); Idle Speed Control Valve Opening Solenoid Control Open Circuit (BMW)
+P1509 Idle Speed Control Valve Opening Solenoid Control Circuit Electrical (BMW)
+P1510 Idle Speed Control Valve Stuck (BMW)
+P1511 DISA Control Circuit Electrical (BMW)
+P1512 DISA Control Circuit Signal Low (BMW)
+P1513 DISA Control Circuit Signal High (BMW)
+P1516 Inlet Manifold Runner Control Input Error (Bank 1) (Ford)
+P1517 Inlet Manifold Runner Control Input Error (Bank 2) (Ford)
+P1518 Inlet Manifold Runner Control Stuck Open (Ford); Starter Switch Circuit Low Input (Subaru)
+P1519 Malfunction In IAC Valve Circuit (Acura, Honda); "A" Camshaft Position Actuator Bank 1 (BMW); Inlet Manifold Runner Control Stuck Closed (Ford)
+P1520 Intake Manifold Runner Control (IMRC) circuit malfunction; "B" Camshaft Position Actuator Bank 1 (BMW); Stop Light Switch Signal Malfunction (Toyota)
+P1521 Power Steering Switch Malfunction (Hyundai)
+P1522 "A" Camshaft Position Actuator Bank 2 (BMW)
+P1523 "A" Camshaft Position Actuator Signal Low Bank 1 (BMW)
+P1524 Throttle Position (TP) Sensor Learned Closed Throttle Angle Degrees Out-Of-Range; "A" Camshaft Position Actuator Signal High Bank 1 (BMW)
+P1525 Throttle Position (TP) Sensor Learned Closed Throttle Angle Degrees Out-Of-Range; "A" Camshaft Position Actuator Control Open Circuit Bank 1 (BMW)
+P1526 "A" Camshaft Position Actuator Control Open Circuit Bank 2 (BMW)
+P1527 Trans Range/Pressure Switch Comparison; "A" Camshaft Position Actuator Control Circuit Signal Low Bank 1 (BMW)
+P1528 "A" Camshaft Position Actuator Control Circuit Signal High Bank 1 (BMW)
+P1529 "B" Camshaft Position Actuator Control Circuit Signal Low Bank 1 (BMW)
+P1530 "B" Camshaft Position Actuator Control Circuit Signal High Bank 1 (BMW)
+P1531 "B" Camshaft Position Actuator Control Open Circuit Bank 1 (BMW)
+P1532 "B" Camshaft Position Actuator Control Open Circuit Bank 2 (BMW)
+P1533 "B" Camshaft Position Actuator Control Circuit Signal Low Bank 2 (BMW)
+P1534 "B" Camshaft Position Actuator Control Circuit Signal High Bank 2 (BMW)
+P1537 Fuel Cut-off Valve Incorrect Function (Volkswagen)
+P1538 Fuel Cut-off Valve Open/Short To Ground (Volkswagen)
+P1540 Pedal Position Sensor (BMW); VSS Signal Too High (Volkswagen)
+P1541 Pedal Position Sensor Double Error (BMW)
+P1542 Pedal Position Sensor Electrical (BMW)
+P1543 Pedal Position Sensor (BMW)
+P1544 Pedal Position Sensor (BMW)
+P1545 Pedal Position Sensor (BMW)
+P1546 Pedal Position Sensor (BMW)
+P1546 Air Conditioning (A/C) Clutch Relay Control Circuit (GM)
+P1546 Wastegate Bypass Regulator Valve Short To Positive (Volkswagen)
+P1549 Intake Manifold Control Circuit Malfunction (Ford)
+P1549 Wastegate Bypass Regulator Valve Open/Short To Ground (Volkswagen)
+P1550 Idle Speed Control valve Closing Solenoid Control Circuit Electrical (BMW); PSP Sensor Malfunction (Ford); Charge Pressure Control Difference (Volkswagen)
+P1551 "A" Camshaft Position Actuator Control Open Circuit Bank 1 (BMW)
+P1552 "A" Camshaft Position Actuator Control Open Circuit Bank 1 (BMW)
+P1554 Cruise Engaged Circuit High Voltage
+P1556 "A" Camshaft Position Actuator Control Open Circuit Bank 1 (BMW)
+P1560 Cruise Control System-Transaxle Not in Drive
+P1560 "B" Camshaft Position Actuator Control Open Circuit Bank 1 (BMW)
+P1560 Back-Up Voltage Circuit Malfunction (Subaru)
+P1561 Quantity Adjuster Control Difference (Volkswagen)
+P1562 Quantity Adjuster Upper Stop Value (Volkswagen)
+P1563 Quantity Adjuster Lower Stop Value (Volkswagen)
+P1564 Cruise Control System-Vehicle Acceleration too high
+P1564 Control Module Selection (BMW)
+P1565 "B" Camshaft Position Actuator Control Open Circuit Bank 1 (BMW)
+P1566 Cruise Control System-Engine RPM Too High
+P1567 Cruise Control ABCS Active
+P1569 "A" Camshaft Position Actuator Control Open Circuit Bank 2 (BMW)
+P1570 Cruise Control System - Traction Control Active
+P1571 Traction Control System PWM Circuit No Frequency
+P1572 Brake Pedal Switch Circuit (Ford)
+P1574 EBTCM System- Stop Lamp Switch Circuit High Voltage
+P1575 Extended Travel Brake Switch Circuit High Voltage
+P1579 Park/Neutral to Drive/Reverse At high Throttle Angle
+P1580 Throttle Valve Mechanically Stuck (BMW)
+P1581 "B" Camshaft Position Actuator Control Open Circuit Bank 2 (BMW)
+P1585 Cruise Control Inhibit Output Circuit (GM)
+P1589 Control Module Self Test, Knock Control Test Pulse Bank 1 (BMW)
+P1590 Neutral Position Switch Circuit High Input (Subaru)
+P1591 Neutral Position Switch Circuit Low Input (Subaru)
+P1593 DISA Control Circuit Electrical (BMW)
+P1594 "B" Camshaft Position Actuator Control Open Circuit Bank 2 (BMW)
+P1594 Charging System Voltage Too High (Chrysler, Jeep)
+P1594 AT Diagnosis Input Signal Circuit Malfunction (Subaru)
+P1595 Speed Control Solenoid Circuits (Chrysler, Jeep)
+P1595 AT Diagnosis Input Signal Circuit Low Input (Subaru)
+P1596 Speed Control Switch always High (Chrysler, Jeep)
+P1596 AT Diagnosis Input Signal Circuit High Input (Subaru)
+P1597 Speed Control Switch always Low (Chrysler, Jeep)
+P1598 A/C Pressure Sensor Volts Too High (Chrysler, Jeep)
+P1599 A/C Pressure Sensor Volts Too Low (Chrysler, Jeep)
+P1599 Engine Stall or Near Stall Detected
+P1600 Battery Voltage SRC High Exceeded (Jeep); ECM BATT Malfunction (Toyota); Supply Voltage Too Low (Volkswagen)
+P1602 Loss of EBTCM Serial Data; Control Module Self Test, Control Module Defective (BMW); PCM Not Programmed (Chrysler, Jeep)
+P1603 Loss of SDM Serial Data; Control Module Self Test, Torque Monitoring (BMW); Battery Backup Circuit Malfunction (Mitsubishi)
+P1604 Loss of IPC Serial Data; Control Module Self Test, Speed Monitoring (BMW)
+P1605 Loss of HVACC Serial Data; Keep Alive Memory Failure (Ford); Powertrain Control Module (Mazda); A/T Diagnosis Communication Line (Nissan, Infiniti)
+P1607 Malfunction In PCM Internal Circuit (Acura, Honda); CAN Version (BMW); Electronic Throttle System Communication Error (Hyundai)
+P1608 Serial Communicating Link Control Module (BMW)
+P1609 Serial Communicating Link EML (BMW)
+P1610 Loss of PZM Serial Data; Immobilizer Function (Mitsubishi)
+P1611 Loss of CVRTD Serial Data; Serial Communicating Link Transmission Control Module (BMW)
+P1612 Engine Control Module Incorrectly Coded (Volkswagen)
+P1614 Electronic Throttle System Module Malfunction (Hyundai)
+P1616 Glow Plug Indicator Lamp Short To Positive (Volkswagen)
+P1617 Engine Oil Level Switch Circuit; Glow Plug Indicator Lamp Open/Short To Ground (Volkswagen)
+P1618 Glow Plug Relay Short To Positive (Volkswagen)
+P1619 MAP Cooling Control Circuit Signal Low (BMW); Glow Plug Relay Open/Short To Ground (Volkswagen)
+P1620 MAP Cooling Control Circuit Signal High (BMW)
+P1621 PCM Memory Performance
+P1622 MAP Cooling Control Circuit Electrical (BMW)
+P1623 Pedal Position Sensor Potentiometer Supply (BMW)
+P1624 Pedal Position Sensor Potentiometer Supply Channel 1 Electrical (BMW); Customer Snapshot Requested - Data Available (GM)
+P1625 Pedal Position Sensor Potentiometer Supply Channel 2 Electrical (BMW)
+P1626 Theft Deterrent System - Fuel Enable Circuit; Implausible Signal From Transmission Control Module (Volkswagen)
+P1630 Theft Deterrent - PCM in Learn Mode
+P1631 Theft Deterrent - Password Incorrect; Throttle Position Sensor Signal Too High (Volkswagen)
+P1632 Theft Deterrent - Fuel Disabled; Throttle Valve Adaptation; Adaptation Condition Not Met (BMW); Traction Control System Malfunction (Hyundai); Throttle Position Sensor Supply Voltage (Volkswagen)
+P1633 Ignition Supplement Power Circuit Low Voltage; Throttle Valve Adaptation; Limp Home Position (BMW); Keep Alive Power Voltage Too Low (Ford)
+P1634 Ignition 1 Power Circuit Low Voltage; Throttle Valve Adaptation; Spring Test Failed (BMW)
+P1635 Throttle Valve Adaptation; Lower Mechanical Stop Not Adapted (BMW); 5 Volt Reference Circuit (GM); Tire/Axle Out Of Acceptable Range (Ford)
+P1636 Throttle Valve Control Circuit (BMW); Inductive Signature Chip Communication Error (Ford)
+P1637 Throttle Valve Position Control; Control Deviation (BMW)
+P1638 Throttle Valve Position Control; Throttle Stuck Temporarily (BMW)
+P1639 Throttle Valve Position Control; Throttle Stuck Permanently (BMW); 5 Volt Reference 2 Circuit (GM); Vehicle ID Block Not Programmed Or Corrupt (Ford); Throttle Position Sensor Implausible Signal (Volkswagen)
+P1640 Internal Control Module (ROM/RAM) Error (BMW); DTC's Available In Another Module (Ford); Driver 1 - Input High Voltage; Engine Control Module Inoperative (Volkswagen)
+P1641 Malfunction Indicator Lamp (MIL) Control Circuit
+P1642 Vehicle Speed Output Circuit
+P1644 Delivered Torque Output Circuit
+P1645 EVAP Solenoid Output Circuit
+P1646 EVAP Vent Valve Output Circuit
+P1648 CAN-Bus System Component Failure (Volkswagen)
+P1649 Implausible Signal From ABS Control Module (Volkswagen)
+P1650 Driver 2 - Input High Voltage; Power Steering Pressure Switch Malfunction (Ford); Power Steering Pressure Switch Out Of Range (Mazda)
+P1651 Power Steering Pressure Switch Input/Signal Malfunction (Mazda, Ford)
+P1652 Lift/Dive Circuit
+P1654 Cruise Disable Output Circuit
+P1656 Automatic Transaxle (Acura, Honda)
+P1660 Cooling Fan Control Circuits; A/T FI Data Line Failure (Acura, Honda)
+P1670 ODM has Detected a Voltage greater than 33 volts (GM)
+P1676 FPTDR Signal Failure (Acura, Honda)
+P1678 FPTDR Signal Line Failure (Acura, Honda)
+P1680 Clutch Released Switch Circuit (Chrysler, Jeep)
+P1681 No I/P Cluster CCD/J1850 Messages Received (Chrysler, Jeep); A/T FI Signal A Low Input (Acura, Honda)
+P1682 A/T FI Signal A High Input (Acura, Honda); Charging System Voltage Too Low (Chrysler, Jeep)
+P1683 Speed Control Power Relay or S/C 12V Driver Circuit (Chrysler, Jeep)
+P1684 Battery Disconnected Within Last 50 Starts (Chrysler, Jeep)
+P1685 Skim Invalid Key (Chrysler, Jeep)
+P1686 No SKIM Bus Message Received (Chrysler, Jeep); A/T FI Signal B Low Input (Acura, Honda)
+P1687 A/T FI Signal B High Input (Acura, Honda); No Cluster Bus Message (Chrysler, Jeep)
+P1689 Traction Control Delivered Torque Output Circuit (GM)
+P1690 Malfunction Indicator Lamp (MIL) Electrical (BMW)
+P1693 DTC Detected In Companion Mode (Chrysler, Jeep)
+P1694 Fault In Companion Mode (Chrysler, Jeep)
+P1695 No CCD/J185O Message From BCM (Chrysler, Jeep)
+P1696 PCM Failure EEPROM Write Denied (Chrysler, Jeep)
+P1697 PCM Failure SRI Mile Not Stored (Chrysler, Jeep)
+P1698 No Bus Message From TCM (Chrysler, Jeep); Engine Torque Control Cut Signal Circuit Low Input (Subaru)
+P1699 Engine Torque Control Cut Signal Circuit High Input (Subaru)
+P1700 TPS Circuit Malfunction For AT (Subaru)
+P1701 Transmission Solenoid Malfunction (Mazda); Cruise Control Set Signal Circuit Malfunction For AT (Subaru)
+P1703 Brake On/Off Switch (Mazda); Brake On/Off Switch Out Of Range (Ford); Low Clutch Timing Control Solenoid Circuit Malfunction (Subaru)
+P1705 Automatic Transaxle (Acura, Honda); Transmisson Range Sensor Out Of Range (Ford); Transmisson Range Sensor (Mazda); Throttle Position Sensor (Nissan, Infiniti)
+P1706 Automatic Transaxle (Acura, Honda); Park/Neutral Position (PNP) Switch (Nissan)
+P1709 Automatic Transaxle (Acura, Honda); Park/Neutral Position Switch Out Of Range (Ford, Mazda)
+P1710 Automatic Transaxle (Acura, Honda)
+P1711 Transmission Fluid Temperature Sensor (Mazda); Engine Torque Control Signal 1 Circuit Malfunction (Subaru)
+P1712 Engine Torque Control Signal 2 Circuit Malfunction (Subaru)
+P1713 Automatic Transaxle (Acura, Honda)
+P1719 Skip Shift Solenoid Circuit (Chrysler, Jeep)
+P1729 4x4 Low Switch Malfunction (Ford, Mazda)
+P1734 Pressure Control Solenoid "B" Electrical (BMW)
+P1738 Automatic Transaxle (Acura, Honda); Pressure Control Solenoid "C" Electrical (BMW)
+P1739 Automatic Transaxle (Acura, Honda)
+P1740 Automatic Transaxle (Acura, Honda)
+P1743 Pressure Control Solenoid "E" Electrical (BMW)
+P1744 Pressure Control Solenoid "A" Electrical (BMW)
+P1746 EPC Solenoid Failed Low (Mazda); Transmission Control Module Output Stage (BMW)
+P1747 CAN Bus Monitoring (BMW); EPC Solenoid Short Circuit (Mazda)
+P1748 Transmission Control Module Self Test (BMW)
+P1749 Secondary Pressure Solenoid Communication Error (BMW); EPC Solenoid Open Circuit (Mazda)
+P1750 Secondary Pressure Solenoid Circuit Range/Performance (BMW)
+P1751 Secondary Pressure Solenoid Open Circuit (BMW); Shift Solenoid #1 (SS1) (Mazda); A/T Control Relay Malfunction (Mitsubishi)
+P1753 Automatic Transaxle (Acura, Honda)
+P1754 Coast Clutch Solenoid (Mazda)
+P1756 GOV Press Not Equal To Target @ 15-20 PSI (Chrysler, Jeep)
+P1756 Shift Solenoid #2 (SS2) (Mazda)
+P1757 GOV Press Not Equal To Target @ 15-20 PSI (Chrysler, Jeep)
+P1758 Automatic Transaxle (Acura, Honda)
+P1760 Overrun Clutch Solenoid Valve (Nissan, Infiniti)
+P1761 Shift Solenoid Malfunction (BMW)
+P1761 Shift Solenoid #3 (SS3) (Mazda)
+P1762 Gov Press Sen Offset Volts Too Low or high(Chrysler, Jeep)
+P1763 Governor Pressure Sensor Volts Too High (Chrysler, Jeep)
+P1764 Governor Pressure Sensor Volts Too Low (Chrysler, Jeep)
+P1765 CAN Throttle Valve (BMW)
+P1765 Trans 12 Volt Supply Relay CTRL Circuit (Chrysler, Jeep)
+P1768 Automatic Transaxle (Acura, Honda)
+P1770 CAN Torque Interface (BMW)
+P1773 Automatic Transaxle (Acura, Honda)
+P1778 Automatic Transaxle (Acura, Honda)
+P1780 CAN Torque Reduction (BMW); Transmission Control Switch (Mazda); Transmission Control Switch Out Of Range(Ford); Park/Neutral Position Switch Malfunction (Only For A/T) (Toyota)
+P1781 4x4 Switch Out Of Range (Ford, Mazda)
+P1783 Transmission Over Temperature Condition (Mazda)
+P1786 Automatic Transaxle (Acura, Honda)
+P1790 Automatic Transaxle (Acura, Honda)
+P1791 Automatic Transaxle (Acura, Honda)
+P1792 Automatic Transaxle (Acura, Honda)
+P1794 Automatic Transaxle (Acura, Honda)
+P1810 TFP Valve Position Switch Circuit (GM)
+P1811 Maximum Adapt and Long Shift (GM)
+P1819 Internal Mode Switch - No Start/Wrong Range (GM)
+P1820 Internal Mode Switch Circuit A Low (GM)
+P1822 Internal Mode Switch Circuit B High (GM)
+P1823 Internal Mode Switch Circuit P Low (GM)
+P1825 Internal Mode Switch - Invalid Range (GM)
+P1826 Internal Mode Switch Circuit C High (GM)
+P1851 Implausible Signal From ABS Control Module (Volkswagen)
+P1854 Drive Train CAN-Bus Inoperative (Volkswagen)
+P1860 TCC PWM Solenoid Circuit Electrical (GM)
+P1887 TCC Release Switch Circuit (GM)
+P1899 Park/Neutral Position Switch Stuck In Park or In Gear (Chrysler, Jeep)
+P1900 Output Shaft Speed Sensor Circuit Failure (Ford)

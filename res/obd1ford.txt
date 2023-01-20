@@ -1,0 +1,227 @@
+11	System OK
+12	Idle Speed Control motor or Air Bypass not controlling idle properly (generally idle too low) – ISC
+13	ISC did not respond properly (extends to touch throttle then retracts for KOEO) – ISC, Idle Speed Control motor or Air Bypass not controlling idle properly (generally idle too high), ISC sticking, open ITS circuit or TP sticking
+14	Ignition pickup (PIP) was erratic – Ignition Systems, E4OD Transmission diesel RPM sensor – Diesel RPM sensor
+15	No Keep Alive Memory power to PCM pin 1 or bad PCM (Memory Test Failure), KAM (pin 1) was interrupted (was battery disconnected ?)
+16	1 9L & 2 5L – Throttle stop set too high – IDLE or Idle Set Procedures, 2 3L – RPM’s too low – IDLE, Electronic ignition – IDM circuit fault – Ignition Systems
+17	1 9L & 2 5L – Throttle stop set too low – IDLE
+18	Check base timing & advance function – Timing Tests, Ignition TACH signal erratic – Ignition Systems, Spark Angle Word (SAW) circuit failure (1 9L SFI)
+19	No Vehicle Power (pins 37 + 57) or bad PCM VPWR Diagnosis, Erratic idle during test (reset throttle & retest) – Idle Set Procedures, Electronic ignition Cylinder ID sensor/circuit problem – Ignition Systems
+21	Engine Coolant Temperature (ECT) sensor out of range – ECT
+22	MAP (vacuum) or BARO signal out of range – MAP
+23	Throttle sensor out of range or throttle set too high – TPS
+24	Intake Air Temperature (IAT) or Vane Air Temperature (VAT) sensor out of range – IAT VAT
+25	Knock sensor not tested (ignore if not pinging) – KS
+26	Mass Air Flow (MAF) or Vane Air Flow (VAF) out of range – MAF VAF, Transmission Oil Temperature (TOT) sensor out of range, Transmissions
+27	Vehicle Speed Sensor problem – VSS
+28	Vane Air Temperature (VAT) sensor out of range – VAT, 2 3L w/Electronic Ignition – Cyl ID, IDM low or right coil pack failure – Ignition Systems
+29	Vehicle Speed Sensor problem – VSS
+31	EVP – EVP signal is/was out of range – EVP, EVR – EVP signal is/was low – EVR, PFE – PFE signal is/was low – PFE
+32	EVP – EGR not responding properly during test – EVP, EVR – EVP signal is/was low – EVR, PFE – PFE shows low pressure, EGR not seating or memory, not   seating   intermittently – PFE
+33	ALL – EGR did not open/ respond during test or if memory code, did not open intermittently – EVP EVR PFE
+34	EVP – EGR did not respond properly during test – EVP, EVR – EVP sensor is/was high – EVR, PFE – PFE sensor is/was out of range – PFE
+35	EVP – Engine RPM’s too low to test EGR system – EVP, EVR – EVP sensor signal is/was high – EVR, PFE – PFE sensor signal is/was high – PFE
+38	Idle Tracking Switch signal was intermittent – ISC
+39	Transmission Torque Converter clutch not engaging – Transmissions
+41	System lean – Fuel control, System was lean for 15 seconds or more (no HO2S switching) – Fuel control
+42	System rich – Fuel control, System was rich for 15 seconds or more (no HO2S switching) – Fuel control
+43	HO2S sensor not reading (run at 2000 rpm’s for 2 minutes and retest – check  for HO2S switching), Was lean at WOT for 3 seconds or more – Fuel control
+44	AIR system inoperative – Air Injection
+45	AIR not Diverting (AIRD) – Air Injection, Electronic Ignition – coil primary circuit failure – Ignition Systems
+46	AIR Bypass (AIRB) not working – Air Injection, Electronic Ignition – primary circuit failure coil 2 – Ignition Systems
+47	Low flow unmetered air (check for small vacuum leaks, injector o’rings, gaskets etc ), E4OD transmission 4×4 switch/circuit problem – Transmissions
+48	High flow unmetered air (check for large vacuum leak, inlet hoses etc ), Electronic Ignition – coil primary circuit failure – Ignition Systems
+49	Electronic Ignition – spout signal circuit problem – Ignition Systems, Transmission 1/2 shift problem – Transmissions
+51	Engine Coolant Temperature (ECT) sensor signal is/was too high – ECT
+52	Power Steering Pressure Switch/circuit open – PSP, Did you turn wheel during test ?
+53	Throttle Position sensor too high – TPS
+54	Intake Air Temperature (IAT) or Vane Air Temperature (VAT) signal high – IAT VAT
+55	No or low (under 7 5 V) Key Power to PCM pin 5
+56	Vane Air Flow (VAF) or Mass Air Flow (MAF) sensor high – VAF MAF, Transmission Oil Temperature sensor too high – Transmissions
+57	Intermittent in Park/Neutral/ Switch or Neutral Pressure switch circuit – PNP or Transmissions
+58	Idle Tracking Switch (ITS) signal problem ISC, Vane Air Temperature (VAT) sensor out of range or open – VAT
+59	AXOD 4/3 circuit fault – Transmissions, 3 0L SHO – Low speed fuel pump circuit problem – Power / Fuel Pump Circuits, Transmission 2/3 shift problem – Transmissions
+61	Engine Coolant Temperature (ECT) sensor is or was too low – ECT
+62	AXOD (KOEO only) 3/2 circuit short to ground – Transmissions, AXOD (KOEO AND KOER) 4/3 circuit failure – Transmissions, E4OD excessive converter clutch slippage – Transmissions
+63	Throttle Position Sensor (TPS) signal too low TPS
+64	Intake Air Temperature (IAT) or Vane Air Temperature (VAT) signal low or grounded – IAT VAT
+65	Check intermittent HO2S (signal or ground) – Fuel Control, E4OD truck – cycle OD cancel switch after engine ID is received – Transmissions, 1984 3 8L ONLY – O, M Battery voltage high (check for electrical system overcharging)
+66	Vane Air Flow (VAF) or Mass Air Flow (MAF) signal low – VAF MAF, Transmission Oil Temperature (TOT) signal low (possibly grounded) – Transmissions
+67	Park/Neutral circuit fault – PNP, Transmission Manual Lever Position (MLP) sensor circuit – Transmissions, Intermittent Park Neutral Position (PNP) sensor fault – PNP
+68	Idle Tracking Switch (ITS) circuit (possibly grounded) – ISC, Vane Air Temperature (VAT) sensor out of range or grounded – VAT, 3 8L AXOD -Transmission Temperature Switch (TTS) open – Transmissions, Electronic Transmission – Transmission Oil Temperature (TOT) sensor was overheated -Transmissions
+69	AXOD transmission (O) 3/2 switch closed (possible short circuit) – Transmissions, AXOD (M) 3/2 switch open (poss short to power) – Transmissions, E4OD 3/4 shift problem – Transmissions
+70	3 8L AXOD – Data link to instrument cluster fault Service any other EEC codes, erase memory and retest   If code is still present refer to instrument cluster diagnosis manual
+71	1 9L TBI, 2 3L TBI, 2 5L TBI – ITS signal was grounded when throttle should have been opening  ITS-ISC ISC motor problem or Idle Tracking Switch (ITS) signal wire shorted to  ground – ISC, 1 9L MFI – PCM re-initialized  Possible electrical noise, case ground or intermittent  VPWR problem – VPWR Diagnosis, 3 8L AXOD – Data link to instrument cluster fault – See code 70
+72	No MAP or MAF change in “goose” test – retest, check for frequency or   voltage change – MAP MAF, 1 9L MFI – VPWR circuit to PCM was intermittent – VPWR Diagnosis, 2 3L T/C – PCM re-initialized  Possible electrical noise, case ground or  intermittent VPWR problem – VPWR Diagnosis, 3 8L AXOD – Message center data link circuit fault – See code 70
+73	Rerun test, if 73 is still output replace TPS, No Throttle Position Sensor (TPS) change in “goose” test  Must get at least 25% throttle rotation – TPS
+74	Was brake depressed after engine ID was received ?, Brake On Off (BOO) signal open or short to ground – BOO
+75	Brake On Off (BOO) signal shorted to power – BOO
+76	Vane Air Flow (VAF) did not respond to “goose” test – VAF
+77	System did not receive “goose” test – see TESTS
+78	VPWR circuit to PCM was intermittent or the PCM is bad VPWR Diagnosis
+79	A/C is on or pin 10 is shorted to power
+81	Boost control solenoid – Solenoids, AIRD solenoid – Solenoids and Air Injection, 3 0L SHO – Inlet Air Solenoid – Solenoids
+82	2 3L TC – Fan Control wire shorted to ground – A/C and Fan Circuits, AIRB solenoid – Solenoids and Air Injection, 3 8L SC – Super Charger Bypass Solenoid – Solenoids
+83	High Electro Drive Fan circuit fault – A/C and Fan Circuits, EGR Control solenoid – Solenoids, 3 0L SHO – Low Speed Fuel Pump Relay circuit – Power / Fuel Pump Circuits
+84	EGR Vacuum Regulator – Solenoids, EGR cutoff solenoid – Solenoids, EGR Vent solenoid – Solenoids
+85	2 3L T/C Automatic – 3/4-4/3 Shift solenoid – Transmissions, CANP solenoid (ALL 1989) – Solenoids, 1 9L MFI – System has corrected rich condition – Fuel control
+86	2 3L or 2 9L Truck – A4LD 3/4 shift solenoid – Transmissions, (M) 1 9L MFI – System has corrected lean condition – Fuel control
+87	Fuel pump circuit fault (check inertia switch) – Power / Fuel Pump Circuits, Vehicles with 2BBL carb – Temperature Compensated Accelerator Pump  Solenoid – Solenoids (M) intermittent in fuel pump primary circuit – Power / Fuel  Pump Circuits NOTE: On some Escorts with automatic seat belts this code is normal IN MEMORY due to the wiring
+88	Throttle Kicker Solenoid – Solenoids, Variable Voltage Choke relay circuit fault – VVC, Fan Control circuit fault – A/C and Fan Circuits, A4LD – Converter Clutch Override solenoid – Transmissions, Electronic Ignition – IDM, DPI or spout circuit fault – Ignition Systems
+89	A4LD – Converter Clutch Override solenoid – Transmissions, AXOD Torque Converter Control solenoid circuit – Transmissions, Exhaust Heat Control (heat riser) solenoid circuit – Solenoids
+91	System running lean – Fuel control, Transmission SS 1 circuit/solenoid problem – Transmissions
+92	System running rich – Fuel control, Transmission SS 2 circuit/solenoid problem – Transmissions
+93	Throttle linkage binding or bad ISC motor ISC HO2S not reading Fuel control, Transmission TCC circuit/solenoid problem – Transmissions
+94	AIR system inoperative – Air Injection, Transmission TCC circuit/solenoid problem – Transmissions
+95	Fuel pump: open, bad ground or always on – Power / Fuel Pump Circuits, AIR not Diverting (AIRD) – Air Injection, Possible bad fuel pump ground or open between fuel pump and pin 8 at PCM  (Fuel Pump Monitor signal) – Power / Fuel Pump Circuits
+96	Fuel pump monitor circuit shows no power – Power / Fuel Pump Circuits, AIR Bypass (AIRB) not working – Air Injection, (Service 87 code first if present) Fuel pump relay or battery power feed was open – Power / Fuel Pump Circuits
+97	E4OD OD cancel light circuit failure – Transmissions
+98	Did not pass KOEO yet (Get 11 in KOEO first), Transmission EPC circuit/solenoid failure – Transmissions
+99	ISC needs to learn (Let idle for 2 minutes, Erase memory and retest), Transmission EPC circuit/solenoid failure – Transmissions
+111	System checks OK
+112	Intake Air Temperature (IAT) sensor is/was low or grounded – IAT
+113	IAT sensor is/was high or open – IAT
+114	IAT sensor out of range – IAT
+116	Engine Coolant (ECT) sensor out of range – ECT
+117	ECT sensor is/was low or grounded – ECT
+118	ECT sensor is/was high or open – ECT
+121	Throttle Position (TP) sensor out of range – TPS
+122	TP low (possibly grounded or open circuit) – TPS
+123	TP is/was high or short to power – TPS
+124	TP voltage was higher than expected – Fuel control
+125	TP voltage was lower than expected – Fuel control
+126	MAP or BARO sensor out of range – “>MAP
+128	MAP vacuum has not been changing – check vacuum lines – “>MAP
+129	No MAP or Mass Air Flow sensor change during “goose” test – MAP MAF
+136	Oxygen sensor not switching/system lean Left or Front HO2S – Fuel control
+137	Oxygen sensor not switching/system rich Left or Front HO2S – Fuel control
+138	Fault in Cold Start Injector circuit – Fuel control
+139	Oxygen sensor not switching Left or Front HO2S – Fuel control
+144	Oxygen sensor not switching Single, Right or Rear HO2S – Fuel control
+157	Mass Air Flow signal is/was low or grounded – MAF
+158	MAF sensor is/was high or short to power – MAF
+159	MAF sensor is/was out of range – MAF
+167	No Throttle Position sensor change in “goose” test (must get at least 25% rotation) – TPS
+171	Oxygen sensor not switching – system was at adaptive limits – Single, Right or Rear HO2S – Fuel control
+172	Oxygen sensor not switching – system is or was lean – Single, Right or Rear HO2S – Fuel control
+173	Oxygen sensor not switching – system is or was rich – Single, Right or Rear HO2S – Fuel control
+174	Oxygen sensor was slow in switching Single, Right or Rear HO2S – Fuel control
+175	Oxygen sensor not switching – system was at adaptive limits – Left or Front HO2S – Fuel control
+176	Oxygen sensor not switching – system is or was lean Left or Front HO2S – Fuel control
+177	Oxygen sensor not switching – system was rich Left or Front HO2S – Fuel control
+178	Oxygen sensor was slow in switching Left or Front HO2S – Fuel control
+179	Fuel system was rich at part throttle Single, Right or Rear HO2S – Fuel control
+181	Fuel system was lean at part throttle Single, Right or Rear HO2S – Fuel control
+182	Fuel system was rich at idle Single, Right or Rear HO2S – Fuel control
+183	Fuel system was lean at idle Single, Right or Rear HO2S – Fuel control
+184	Mass Air (MAF) output higher than expected – Fuel control
+185	Mass Air (MAF) output lower than expected – Fuel control
+186	Injector pulse width longer than expected or Mass Air Flow (MAF) lower than expected – Fuel control
+187	Injector pulse width shorter than expected or Mass Air Flow (MAF) higher than  expected – Fuel control
+188	Fuel system was rich at part throttle – Left or Front HO2S – Fuel control
+189	Fuel system was lean at part throttle – Left or Front HO2S – Fuel control
+191	Fuel system was rich at idle – Left or Front HO2S – Fuel control
+192	Fuel system was lean at idle – Left or Front HO2S – Fuel control
+193	Failure in Flexible Fuel (FF) sensor circuit – Fuel control
+194	Perform cylinder balance test to check for inoperative injectors
+195	Perform cylinder balance test to check for inoperative injectors
+211	Ignition PIP signal was erratic or missing – Ignition Systems
+212	Ignition TACH signal was erratic (module/wiring) or SPOUT circuit fault – Ignition Systems
+213	Ignition SPOUT or SAW circuit open or shorted – Ignition Systems
+214	Error in Cylinder ID (CID) circuit or signal – Ignition Systems
+215	Primary circuit failure – ignition coil 1 – Ignition Systems
+216	Primary circuit failure – ignition coil 2 – Ignition Systems
+217	Primary circuit failure – ignition coil 3 – Ignition Systems
+218	IDM signal open or high or left coil pack failure – Ignition Systems
+219	SPOUT circuit failure, timing defaulted to 10 degrees – follow code 213 diagnosis
+222	IDM open or high or right coil pack failure – Ignition Systems
+223	Dual Plug (DPI), SPOUT or IDM circuit fault – Ignition Systems
+224	Failure in ignition coil primary circuit – Ignition Systems
+225	Knock sensor not tested (ignore if not pinging) – KS
+226	Ignition Diagnostic Monitor (IDM) signal fault – Ignition Systems
+232	EI primary coil circuit failure – Ignition Systems
+238	EI primary circuit failure – ignition coil 4 – Ignition Systems
+311	AIR system not working – Single, Right or Rear HO2S – Air Injection
+312	AIR not diverting – Air Injection
+313	AIR not bypassing – Air Injection
+314	AIR inoperative, Left or Front HO2S – Air Injection
+326	Pressure Feedback EGR shows low pressure EGR not seating or not seating intermittantly – PFE
+327	EGR feedback signal is/was low – EVR or PFE
+328	EGR Valve Position (EVP) is/was low – EVR
+332	EGR did not open/respond during test or if memory code, did not open intermittantly – EVR or PFE
+334	EVP sensor is/was high – EVR
+335	EGR feedback signal is/was out of range – EVR or PFE
+336	PFE sensor signal is/was was high – “>PFE
+337	EGR feedback signal is/was was high – EVR
+338	Cooling system did not heat up (check cooling system / thermostat operation)
+339	Cooling system overheated (check cooling system / thermostat operation)
+341	Octane jumper installed (information only code to notify you if it is installed)
+411	Idle speed system not controlling idle properly (generally idle too high) – ISC
+412	Idle speed system not controlling idle properly (generally idle too low) – ISC
+452	Vehicle Speed Sensor (VSS) problem
+511	No power to PCM pin 1 or bad PCM (processor)
+512	Memory power (PCM pin 1) was interrupted – Was battery disconnected ?
+513	Replace processor (PCM) (internal failure)
+519	PSP switch/circuit open – PSP h Pedal Position (CPP) circuit fault – PNP
+528	System shows voltage at pin 10 (is A/C on ?) or pin 30 (PNP, CPP switch) – PNP
+529	Data Communications Link to processor failure Service any EEC codes, erase memory and retest  If code is still present refer to instrument cluster diagnosis manual
+533	Data Communications Link to instrument cluster failure – see 529
+536	Brake On Off open or shorted to ground – BOO
+538	System did not receive “goose” test – TESTS
+539	System shows voltage at PCM pin 10  Is A/C on ?
+542	Fuel pump open, bad ground or always on – – Power / Fuel Pump Circuits
+543	Fuel pump monitor circuit shows no power – Power / Fuel Pump Circuits
+	(Service 556 code first if present) Fuel pump relay or battery power feed was open – Power / Fuel Pump Circuits
+551	Problem in Intake Manifold Runner Control (IMRC) solenoid/circuit – Solenoids
+552	AIRB solenoid/circuit failure – Solenoids
+553	AIRD solenoid/circuit failure – Solenoids
+554	Fuel Press Regulator Control solenoid/circuit fault – Power / Fuel Pump Circuits
+556	Fuel pump relay primary circuit fault – Power / Fuel Pump Circuits
+557	Low speed pump relay primary circuit fault – Power / Fuel Pump Circuits
+558	EGR vacuum regulator solenoid/circuit failure – EVR or PFE or Solenoids
+559	A/C relay primary circuit fault – A/C and Fan Circuits
+563	High Fan Control (HFC) circuit failure – A/C and Fan Circuits
+564	Fan Control (FC) circuit failure – A/C and Fan Circuits
+565	Canister Purge 1 solenoid/circuit failure – Solenoids
+566	transmission 3/4 shift solenoid/circuit – Transmissions
+569	Canister Purge 2 solenoid/circuit failure – Solenoids
+578	A/C pressure sensor VREF short to ground – A/C and Fan Circuits
+579	ACP sensor did not change with A/C on – A/C and Fan Circuits
+581	Cooling fan current was excessive – A/C and Fan Circuits
+582	Open cooling fan circuit – A/C and Fan Circuits
+583	Fuel pump current was excessive – Power / Fuel Pump Circuits
+584	Open power ground circuit – Power / Fuel Pump Circuits
+585	A/C clutch current was excessive – A/C and Fan Circuits
+586	Open circuit in A/C clutch – A/C and Fan Circuits
+587	Communication problem between PCM and Variable Control Relay Module (VCRM) – Power / Fuel Pump Circuits
+617	Transmission shift failure (1/2 shift) – Transmissions
+618	Transmission shift failure (2/3 shift) – Transmissions
+619	Transmission shift failure (3/4 shift) – Transmissions
+621	Solenoid/circuit failure – shift solenoid 1 – Transmissions
+622	Solenoid/circuit failure – shift solenoid 2 – Transmissions
+624	Solenoid/circuit failure -Electronic Pressure Control (EPC) current is high – Transmissions
+625	Solenoid/circuit failure – Electronic Pressure Control (EPC) current is low – Transmissions
+626	Transmission Coast Clutch (CCS) Solenoid/circuit fault – Transmissions
+627	Torque Converter Clutch circuit fault – Transmissions
+628	Excessive converter clutch slippage – Transmissions
+629	Torque Converter Clutch circuit fault – Transmissions
+631	Overdrive Cancel Light circuit problem – Transmissions
+632	E4OD – Transmission Control Switch (TCS) should be cycled once between engine ID and  Goose test
+633	4x4L switch should be in 4×2 or 4×4 high for the test
+634	Park/Neutral Position (PNP) or Clutch Pedal Position (CPP) circuit fault  Electronic shift transmission – Manual Lever Position (MLP) sensor out of range in Park-Transmissions
+636	Transmission Oil Temperature (TOT) sensor out of range – Transmissions
+637	TOT sensor is/was high or open – Transmissions
+638	TOT sensor is/was low or grounded – Transmissions
+639	Transmission Speed sensor (TSS) circuit fault – Transmissions
+641	Transmission solenoid/circuit failure Shift Solenoid 3 – Transmissions
+643	Torque Converter Clutch (TCC) circuit – Transmissions
+645	Transmission 1st gear failure – Transmissions
+646	Transmission 2nd gear failure – Transmissions
+647	Transmission 3rd gear failure – Transmissions
+648	Transmission 4th gear failure – Transmissions
+649	Transmission EPC system failure – Transmissions
+651	Transmission EPC solenoid/circuit fault – Transmissions
+652	Torque Converter Clutch (TCC) circuit fault – Transmissions
+654	Transmission selector not in PARK – Transmissions
+656	Torque Converter Clutch (TCC) slip – Transmissions
+657	Transmission temperature was excessive – Transmissions

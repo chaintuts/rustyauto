@@ -1,0 +1,65 @@
+12	System OK ( Diagnosis mode active )
+13	Oxygen O2 Sensor – Circuit open/no activity
+14	Coolant Temperature sensor – Resistance too high or shorted circuit
+15	Coolant Temperature Sensor – Circuit low or open
+16	Direct ignition system (DIS) – Faulty circuit / shorted circuit
+17	Camshaft Position Sensor – Circuit/timing error
+18	Camshaft or Crankshaft – Sensor/circuit/timing error
+19	Crankshaft sensor – Sensor/circuit/timing error
+21	Throttle position sensor – Out of range/Performance
+22	Throttle position sensor – Low Voltage
+23	Intake Air temp sensor – Out of range, low resistance
+24	Vehicle speed sensor – Circuit fault
+25	Intake Air temp sensor – Out of range, high resistance
+26	QDM A ( Quad-driver module ) – Circuit #1 fault
+27	QDM A ( Quad-driver module ) – 2nd gear circuit
+28	QDM A ( Quad-driver module ) – Circuit #2 fault
+29	QDM A ( Quad driver module ) – 4th gear circuit
+31	Wastegate solenoid – Circuit fault
+32	EGR ( Exhaust Gas Recirculation ) – Circuit fault
+33	Manifold Air Pressure Sensor – Signal out of range, high resistance
+34	Manifold Air Pressure Sensor – Signal out of range, low resistance
+35	Idle air control valve / Sensor – Circuit fault
+36	Ignition system – Circuit error/fault
+38	Brake input ( Brake switch sensor ) – Circuit fault
+39	Clutch input ( Clutch sensor ) – Circuit fault
+41	Camshaft sensor – Circuit fault or ignition control – circuit fault/error  (depending on the car model)
+42	EST (Electronic spark timing) – Circuit grounded/shorted
+43	Knock sensor / Electronic spark control – Circuit fault error  (depending on the car model)
+44	Oxygen O2 sensor – Lean Mixture
+45	Oxygen O 2sensor – Rich Mixture
+46	Pass-key II – Circuit or Power steering pressure switch – circuit fault error  (depending on the car model)
+47	PCM data – Circuit error
+48	Misfire (diagnosis)
+51	Calibration error – Mem-cal, ECM, or EPROM failure
+52	Engine oil temperature circuit – Low temperature indicated / circuit error
+53	Battery voltage – Low/high/error or Egr valve solenoid 1 – circuit error  (depending on the car model )
+54	Fuel Pump – Circuit error or Egr valve solenoid 2 – Circuit error (depending on the car model )
+55	ECM PCM – Circuit error or EGR valve solenoid 3 – Circuit error (depending on the car model )
+56	Quad-driver module (QDM B) – Circuit error
+57	Boost control – Error / Faulty
+58	Vehicle anti-theft system ( VATS ) – Circuit faulty
+61	AC (Air conditioning) system performance or degraded oxygen sensor signal (depending on the car model)
+62	Engine oil temperature sensor – High temperature indicated
+63	Oxygen O2 sensor right side – Circuit open or MAP (manifold air pressure sensor ) – out of range (depending on the car model )
+64	Oxygen O2  sensor right side – Lean mixture indicated
+65	Oxygen O2 sensor right side – Rich mixture indicated
+66	A/C (Air conditioning ) pressure sensor – Circuit low pressure
+67	A/C (Air conditioning ) pressure sensor – Circuit or a/c clutch – circuit failure (depending on the car model)
+68	A/C (Air conditioning ) compressor relay – Circuit failure error
+69	A/C (Air conditioning ) clutch – Circuit/pressure high
+70	A/C (Air conditioning ) refrigerant pressure – Circuit high
+71	A/C (Air conditioning ) evaporator temperature sensor – circuit low
+72	Gear selector switch – Circuit error/fault
+73	A/C (Air conditioning) Evaporator temperature – Circuit high
+75	Digital EGR #2 – Solenoid error/faulty
+76	Digital EGR #3 – Solenoid error/faulty
+77	Digital EGR #1 – Solenoid error/faulty
+79	Vehicle speed sensor (SS) – Circuit signal high resistance
+80	Vehicle speed sensor (VSS) – Circuit signal low resistance
+81	Brake input data – Circuit faulty
+82	Ignition control (IC) 3X – Signal error/faulty circuit
+85	Prom –  Error/faulty circuit
+86	Analog/digital – Pcm error /faulty circuit
+87	Eprom – Error / faulty circuit
+99	Power management – Error / faulty circuit
